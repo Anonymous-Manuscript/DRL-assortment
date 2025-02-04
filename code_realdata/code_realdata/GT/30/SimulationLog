@@ -1,0 +1,98 @@
+2024-11-06 15:56:13,661 Train INFO: Namespace(logger=<Logger Train (INFO)>, name=None, gpu='0', device=None, gamma=1, epsilon_decay=0.998, epoch_num=40, batch_size=1, layer='128_64', lr=1e-05, num_steps=10, h=1, w=[128, 128], nn_out=64, share_lr=0.01, actor_lr=0.002, critic_lr=0.01, em_lr=0.001, step=20, lr_min=0.0001, e_rate=0.1, a_rate=1, c_rate=1, lr_decay_lambda=0.999, shape=True, cus_onehot=False, cus_embedding_dim=4, t_embedding_dim=1, GR_Train=False, GR_Test=True, MLP=False, feature=True, CM='GT', DQN=True, load=False, only_test_Benchmark=False, only_test_DRL=False, only_test_DQN=False, UB=False, training_curves=True, detail=False, stream='0', saved_time_stream='2024-10-27-11-04-15', folder='30', seed_range=10, net_seed=0, seed=0, info=True, L=100, cardinality=4, ini_inv=5, num_products=30, products=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], prop_features=None, num_cus_types=4, num_cus_features=6, type_cus_feature=None, cus_feature_index_list=None, seg_prob=None, seqdata=None, transdata=None)
+2024-11-06 15:56:13,661 Train INFO: GT/30/SimulationLog
+2024-11-06 15:59:10,829 Train INFO: elapsed_time for mnl:119.6332654953003
+2024-11-06 16:05:41,116 Train INFO: elapsed_time for mnl_feature:390.28619718551636
+2024-11-06 16:12:12,074 Train INFO: elapsed_time for lcmnl:390.95795035362244
+2024-11-06 16:17:20,290 Train INFO: elapsed_time for mc:308.21575117111206
+2024-11-06 16:17:20,618 Train INFO: Training Epoch: 1/10 , Training LL: -2.662 
+2024-11-06 16:17:20,897 Train INFO: Training Epoch: 2/10 , Training LL: -2.551 
+2024-11-06 16:17:21,176 Train INFO: Training Epoch: 3/10 , Training LL: -2.539 
+2024-11-06 16:17:21,456 Train INFO: Training Epoch: 4/10 , Training LL: -2.516 
+2024-11-06 16:17:21,735 Train INFO: Training Epoch: 5/10 , Training LL: -2.515 
+2024-11-06 16:17:22,014 Train INFO: Training Epoch: 6/10 , Training LL: -2.508 
+2024-11-06 16:17:22,292 Train INFO: Training Epoch: 7/10 , Training LL: -2.494 
+2024-11-06 16:17:22,571 Train INFO: Training Epoch: 8/10 , Training LL: -2.499 
+2024-11-06 16:17:22,849 Train INFO: Training Epoch: 9/10 , Training LL: -2.484 
+2024-11-06 16:17:23,128 Train INFO: Training Epoch: 10/10 , Training LL: -2.488 
+2024-11-06 16:17:23,128 Train INFO: elapsed_time for assort_net:2.8382840156555176
+2024-11-06 16:17:23,807 Train INFO: Training Epoch: 1/10 , Training LL: -2.646 
+2024-11-06 16:17:24,477 Train INFO: Training Epoch: 2/10 , Training LL: -2.509 
+2024-11-06 16:17:25,153 Train INFO: Training Epoch: 3/10 , Training LL: -2.498 
+2024-11-06 16:17:25,828 Train INFO: Training Epoch: 4/10 , Training LL: -2.482 
+2024-11-06 16:17:26,505 Train INFO: Training Epoch: 5/10 , Training LL: -2.467 
+2024-11-06 16:17:27,179 Train INFO: Training Epoch: 6/10 , Training LL: -2.454 
+2024-11-06 16:17:27,851 Train INFO: Training Epoch: 7/10 , Training LL: -2.441 
+2024-11-06 16:17:28,521 Train INFO: Training Epoch: 8/10 , Training LL: -2.420 
+2024-11-06 16:17:29,192 Train INFO: Training Epoch: 9/10 , Training LL: -2.410 
+2024-11-06 16:17:29,863 Train INFO: Training Epoch: 10/10 , Training LL: -2.399 
+2024-11-06 16:17:29,863 Train INFO: elapsed_time for assort_net_feature:6.735182523727417
+2024-11-06 16:17:29,864 Train INFO: number of samples: 3937
+2024-11-06 16:17:30,533 Train INFO: Overall Testing LL - mnl: -2.531, mnl_feature: -2.539, lcmnl: -2.529, mc: -2.495, assort_net: -2.472, assort_net_feature: -2.414.
+2024-11-06 16:17:30,536 Train INFO: customer type: 0
+2024-11-06 16:18:41,038 Train INFO: elapsed_time for mnl:70.49727392196655
+2024-11-06 16:23:50,467 Train INFO: elapsed_time for lcmnl:309.4285337924957
+2024-11-06 16:28:51,178 Train INFO: elapsed_time for mc:300.7108232975006
+2024-11-06 16:28:51,372 Train INFO: Training Epoch: 1/10 , Training LL: -2.671 
+2024-11-06 16:28:51,557 Train INFO: Training Epoch: 2/10 , Training LL: -2.560 
+2024-11-06 16:28:51,743 Train INFO: Training Epoch: 3/10 , Training LL: -2.543 
+2024-11-06 16:28:51,929 Train INFO: Training Epoch: 4/10 , Training LL: -2.534 
+2024-11-06 16:28:52,114 Train INFO: Training Epoch: 5/10 , Training LL: -2.526 
+2024-11-06 16:28:52,300 Train INFO: Training Epoch: 6/10 , Training LL: -2.519 
+2024-11-06 16:28:52,486 Train INFO: Training Epoch: 7/10 , Training LL: -2.512 
+2024-11-06 16:28:52,672 Train INFO: Training Epoch: 8/10 , Training LL: -2.505 
+2024-11-06 16:28:52,858 Train INFO: Training Epoch: 9/10 , Training LL: -2.504 
+2024-11-06 16:28:53,046 Train INFO: Training Epoch: 10/10 , Training LL: -2.495 
+2024-11-06 16:28:53,046 Train INFO: elapsed_time for assort_net:1.8680548667907715
+2024-11-06 16:28:53,052 Train INFO: number of samples: 2621
+2024-11-06 16:28:53,226 Train INFO: Type Testing LL - mnl: -2.530, lcmnl: -2.530, mc: -2.489, assort_net: -2.484.
+2024-11-06 16:28:53,230 Train INFO: customer type: 1
+2024-11-06 16:29:03,668 Train INFO: elapsed_time for mnl:10.434771060943604
+2024-11-06 16:34:09,049 Train INFO: elapsed_time for lcmnl:305.38043451309204
+2024-11-06 16:39:10,184 Train INFO: elapsed_time for mc:301.13522028923035
+2024-11-06 16:39:10,229 Train INFO: Training Epoch: 1/10 , Training LL: -2.949 
+2024-11-06 16:39:10,264 Train INFO: Training Epoch: 2/10 , Training LL: -2.677 
+2024-11-06 16:39:10,298 Train INFO: Training Epoch: 3/10 , Training LL: -2.599 
+2024-11-06 16:39:10,332 Train INFO: Training Epoch: 4/10 , Training LL: -2.566 
+2024-11-06 16:39:10,366 Train INFO: Training Epoch: 5/10 , Training LL: -2.547 
+2024-11-06 16:39:10,400 Train INFO: Training Epoch: 6/10 , Training LL: -2.549 
+2024-11-06 16:39:10,434 Train INFO: Training Epoch: 7/10 , Training LL: -2.541 
+2024-11-06 16:39:10,468 Train INFO: Training Epoch: 8/10 , Training LL: -2.512 
+2024-11-06 16:39:10,503 Train INFO: Training Epoch: 9/10 , Training LL: -2.539 
+2024-11-06 16:39:10,537 Train INFO: Training Epoch: 10/10 , Training LL: -2.505 
+2024-11-06 16:39:10,537 Train INFO: elapsed_time for assort_net:0.3522214889526367
+2024-11-06 16:39:10,538 Train INFO: number of samples: 472
+2024-11-06 16:39:10,574 Train INFO: Type Testing LL - mnl: -2.556, lcmnl: -2.528, mc: -2.428, assort_net: -2.504.
+2024-11-06 16:39:10,578 Train INFO: customer type: 2
+2024-11-06 16:39:20,082 Train INFO: elapsed_time for mnl:9.502623081207275
+2024-11-06 16:44:20,235 Train INFO: elapsed_time for lcmnl:300.15264892578125
+2024-11-06 16:47:32,669 Train INFO: elapsed_time for mc:192.43424463272095
+2024-11-06 16:47:32,695 Train INFO: Training Epoch: 1/10 , Training LL: -3.096 
+2024-11-06 16:47:32,714 Train INFO: Training Epoch: 2/10 , Training LL: -2.681 
+2024-11-06 16:47:32,734 Train INFO: Training Epoch: 3/10 , Training LL: -2.320 
+2024-11-06 16:47:32,753 Train INFO: Training Epoch: 4/10 , Training LL: -2.143 
+2024-11-06 16:47:32,773 Train INFO: Training Epoch: 5/10 , Training LL: -2.191 
+2024-11-06 16:47:32,792 Train INFO: Training Epoch: 6/10 , Training LL: -2.172 
+2024-11-06 16:47:32,811 Train INFO: Training Epoch: 7/10 , Training LL: -2.171 
+2024-11-06 16:47:32,830 Train INFO: Training Epoch: 8/10 , Training LL: -2.148 
+2024-11-06 16:47:32,849 Train INFO: Training Epoch: 9/10 , Training LL: -2.239 
+2024-11-06 16:47:32,869 Train INFO: Training Epoch: 10/10 , Training LL: -2.161 
+2024-11-06 16:47:32,869 Train INFO: elapsed_time for assort_net:0.19894933700561523
+2024-11-06 16:47:32,870 Train INFO: number of samples: 258
+2024-11-06 16:47:32,894 Train INFO: Type Testing LL - mnl: -2.128, lcmnl: -2.096, mc: -1.980, assort_net: -2.136.
+2024-11-06 16:47:32,897 Train INFO: customer type: 3
+2024-11-06 16:47:48,311 Train INFO: elapsed_time for mnl:15.411149740219116
+2024-11-06 16:52:52,471 Train INFO: elapsed_time for lcmnl:304.1600797176361
+2024-11-06 16:57:52,533 Train INFO: elapsed_time for mc:300.06152081489563
+2024-11-06 16:57:52,582 Train INFO: Training Epoch: 1/10 , Training LL: -2.945 
+2024-11-06 16:57:52,624 Train INFO: Training Epoch: 2/10 , Training LL: -2.607 
+2024-11-06 16:57:52,667 Train INFO: Training Epoch: 3/10 , Training LL: -2.534 
+2024-11-06 16:57:52,709 Train INFO: Training Epoch: 4/10 , Training LL: -2.529 
+2024-11-06 16:57:52,751 Train INFO: Training Epoch: 5/10 , Training LL: -2.515 
+2024-11-06 16:57:52,793 Train INFO: Training Epoch: 6/10 , Training LL: -2.504 
+2024-11-06 16:57:52,835 Train INFO: Training Epoch: 7/10 , Training LL: -2.498 
+2024-11-06 16:57:52,877 Train INFO: Training Epoch: 8/10 , Training LL: -2.494 
+2024-11-06 16:57:52,919 Train INFO: Training Epoch: 9/10 , Training LL: -2.493 
+2024-11-06 16:57:52,961 Train INFO: Training Epoch: 10/10 , Training LL: -2.490 
+2024-11-06 16:57:52,961 Train INFO: elapsed_time for assort_net:0.4278433322906494
+2024-11-06 16:57:52,962 Train INFO: number of samples: 586
+2024-11-06 16:57:53,008 Train INFO: Type Testing LL - mnl: -2.528, lcmnl: -2.517, mc: -2.420, assort_net: -2.470.
