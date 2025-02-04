@@ -1,0 +1,43 @@
+2024-12-22 17:15:07,843 Train INFO: Namespace(logger=<Logger Train (INFO)>, name=None, gpu='0', device=device(type='cpu'), gamma=1, epsilon_decay=0.998, epoch_num=40, batch_size=1, layer='128_64', lr=1e-05, num_steps=10, h=2, w=[64, 64], nn_out=64, share_lr=0.001, actor_lr=0.001, critic_lr=0.001, em_lr=0.001, step=100, lr_min=1e-05, e_rate=0.1, a_rate=1, c_rate=1, lr_decay_lambda=0.999, shape=True, cus_onehot=False, cus_embedding_dim=4, t_embedding_dim=1, GR_Train=False, GR_Test=True, PPO=False, MLP=True, CM='net', DQN=False, load=False, only_test_Benchmark=False, only_test_DRL=False, only_test_DQN=False, UB=False, training_curves=True, detail=False, GT='rl', stream='DRL_save/rlN=20M=4k=0.03L=100T=500INV=8MLPnet2024-12-22-17-15-07', saved_time_stream='2024-12-13-10-40-21', folder='rlN=20M=4k=0.03L=100T=500INV=8MLPnet', seed_range=10, net_seed=0, seed=0, info=True, k=0.03, L=100, T=500, cardinality=4, ini_inv=8, num_products=20, products=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], num_cus_types=4, rank_list=None, cus_type=None, seg_prob=None, seqdata=None, transdata=None)
+2024-12-22 17:15:07,843 Train INFO: log/rlN=20M=4k=0.03L=100T=500INV=8MLPnet/DRLTrainLog2024-12-22-17-15-07
+2024-12-22 17:15:08,076 Train INFO: Load Factor 0.625
+2024-12-22 17:15:40,462 Train INFO: initial mean reward: 13.6572
+2024-12-22 17:15:40,462 Train INFO: start epoch: 1 / 40
+2024-12-22 17:15:40,462 Train INFO: learning rate now: 0.001,0.001,0.001
+2024-12-22 17:17:02,337 Train INFO: mean validate reward: 14.7538
+2024-12-22 17:17:02,338 Train INFO: model weights saved
+2024-12-22 17:17:02,338 Train INFO: start epoch: 2 / 40
+2024-12-22 17:17:02,338 Train INFO: learning rate now: 0.000959809440525076,0.000959809440525076,0.000959809440525076
+2024-12-22 17:18:24,262 Train INFO: mean validate reward: 15.3350
+2024-12-22 17:18:24,263 Train INFO: model weights saved
+2024-12-22 17:18:24,263 Train INFO: start epoch: 3 / 40
+2024-12-22 17:18:24,263 Train INFO: learning rate now: 0.0009212341621210594,0.0009212341621210594,0.0009212341621210594
+2024-12-22 17:19:46,174 Train INFO: mean validate reward: 15.4507
+2024-12-22 17:19:46,176 Train INFO: model weights saved
+2024-12-22 17:19:46,176 Train INFO: start epoch: 4 / 40
+2024-12-22 17:19:46,176 Train INFO: learning rate now: 0.0008842092457380008,0.0008842092457380008,0.0008842092457380008
+2024-12-22 17:21:08,867 Train INFO: mean validate reward: 16.0693
+2024-12-22 17:21:08,868 Train INFO: model weights saved
+2024-12-22 17:21:08,868 Train INFO: start epoch: 5 / 40
+2024-12-22 17:21:08,868 Train INFO: learning rate now: 0.0008486723814588903,0.0008486723814588903,0.0008486723814588903
+2024-12-22 17:22:31,128 Train INFO: mean validate reward: 15.1059
+2024-12-22 17:22:31,128 Train INFO: start epoch: 6 / 40
+2024-12-22 17:22:31,128 Train INFO: learning rate now: 0.0008137491998735043,0.0008137491998735043,0.0008137491998735043
+2024-12-22 17:23:53,840 Train INFO: mean validate reward: 16.0074
+2024-12-22 17:23:53,840 Train INFO: start epoch: 7 / 40
+2024-12-22 17:23:53,840 Train INFO: learning rate now: 0.0007810441642583164,0.0007810441642583164,0.0007810441642583164
+2024-12-22 17:25:18,006 Train INFO: mean validate reward: 15.8881
+2024-12-22 17:25:18,007 Train INFO: start epoch: 8 / 40
+2024-12-22 17:25:18,007 Train INFO: learning rate now: 0.0007496535623221506,0.0007496535623221506,0.0007496535623221506
+2024-12-22 17:26:42,057 Train INFO: mean validate reward: 16.1847
+2024-12-22 17:26:42,058 Train INFO: model weights saved
+2024-12-22 17:26:42,058 Train INFO: start epoch: 9 / 40
+2024-12-22 17:26:42,058 Train INFO: learning rate now: 0.0007195245662400537,0.0007195245662400537,0.0007195245662400537
+2024-12-22 17:28:06,244 Train INFO: mean validate reward: 16.3164
+2024-12-22 17:28:06,245 Train INFO: model weights saved
+2024-12-22 17:28:06,245 Train INFO: start epoch: 10 / 40
+2024-12-22 17:28:06,246 Train INFO: learning rate now: 0.0006899158648955465,0.0006899158648955465,0.0006899158648955465
+2024-12-22 17:29:30,953 Train INFO: mean validate reward: 16.9447
+2024-12-22 17:29:30,954 Train INFO: model weights saved
+2024-12-22 17:29:30,954 Train INFO: start epoch: 11 / 40
+2024-12-22 17:29:30,955 Train INFO: learning rate now: 0.0006621877602947681,0.0006621877602947681,0.0006621877602947681
