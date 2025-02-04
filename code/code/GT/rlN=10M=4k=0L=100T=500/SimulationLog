@@ -1,0 +1,52 @@
+2024-09-19 11:37:45,854 Train INFO: Namespace(logger=<Logger Train (INFO)>, name=None, gpu='0', device=None, gamma=1, epsilon_decay=0.998, epoch_num=40, batch_size=1, layer='128_64', lr=1e-05, num_steps=10, h=2, w=[64, 128], nn_out=64, share_lr=0.001, actor_lr=0.001, critic_lr=0.001, em_lr=0.001, step=100, lr_min=1e-05, e_rate=0.1, a_rate=1, c_rate=1, lr_decay_lambda=0.999, shape=True, cus_onehot=False, cus_embedding_dim=8, t_embedding_dim=1, GR_Train=False, GR_Test=True, MLP=False, CM='mc', DQN=False, load=False, only_test_Benchmark=False, only_test_DRL=False, UB=False, training_curves=False, detail=False, GT='rl', stream='0', saved_time_stream='2024-09-14-20-46-13', folder='N=10M=4k=0', seed_range=10, net_seed=0, seed=0, info=True, k=0, cardinality=4, ini_inv=12, num_products=10, products=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], num_cus_types=4, rank_list=None, cus_type=None, seg_prob=None, seqdata=None, transdata=None)
+2024-09-19 11:37:45,855 Train INFO: GT/N=10M=4k=0/SimulationLog
+2024-09-19 11:37:45,855 Train INFO: prices:[15.75162278 16.35482199 16.56380817 18.17324774 18.23220256 19.04145064
+ 19.6884117  20.7278405  23.37659501 24.45494141]
+2024-09-19 11:38:07,683 Train INFO: customer type: 0
+2024-09-19 11:48:48,420 Train INFO: Training Epoch: 1/10 , Training LL: -1.017 
+2024-09-19 11:48:49,107 Train INFO: Training Epoch: 2/10 , Training LL: -0.680 
+2024-09-19 11:48:49,788 Train INFO: Training Epoch: 3/10 , Training LL: -0.645 
+2024-09-19 11:48:50,470 Train INFO: Training Epoch: 4/10 , Training LL: -0.636 
+2024-09-19 11:48:51,156 Train INFO: Training Epoch: 5/10 , Training LL: -0.633 
+2024-09-19 11:48:51,841 Train INFO: Training Epoch: 6/10 , Training LL: -0.629 
+2024-09-19 11:48:52,522 Train INFO: Training Epoch: 7/10 , Training LL: -0.627 
+2024-09-19 11:48:53,203 Train INFO: Training Epoch: 8/10 , Training LL: -0.626 
+2024-09-19 11:48:53,884 Train INFO: Training Epoch: 9/10 , Training LL: -0.624 
+2024-09-19 11:48:54,567 Train INFO: Training Epoch: 10/10 , Training LL: -0.623 
+2024-09-19 11:48:54,692 Train INFO: Testing LL - mnl: -0.726, lcmnl: -0.704, rl: -1.167, mc: -0.621, assort_net: -0.629.
+2024-09-19 11:48:54,695 Train INFO: customer type: 1
+2024-09-19 12:00:14,917 Train INFO: Training Epoch: 1/10 , Training LL: -1.398 
+2024-09-19 12:00:15,600 Train INFO: Training Epoch: 2/10 , Training LL: -1.266 
+2024-09-19 12:00:16,289 Train INFO: Training Epoch: 3/10 , Training LL: -1.235 
+2024-09-19 12:00:16,975 Train INFO: Training Epoch: 4/10 , Training LL: -1.217 
+2024-09-19 12:00:17,663 Train INFO: Training Epoch: 5/10 , Training LL: -1.208 
+2024-09-19 12:00:18,349 Train INFO: Training Epoch: 6/10 , Training LL: -1.204 
+2024-09-19 12:00:19,034 Train INFO: Training Epoch: 7/10 , Training LL: -1.200 
+2024-09-19 12:00:19,737 Train INFO: Training Epoch: 8/10 , Training LL: -1.197 
+2024-09-19 12:00:20,431 Train INFO: Training Epoch: 9/10 , Training LL: -1.195 
+2024-09-19 12:00:21,121 Train INFO: Training Epoch: 10/10 , Training LL: -1.193 
+2024-09-19 12:00:21,256 Train INFO: Testing LL - mnl: -1.347, lcmnl: -1.311, rl: -1.693, mc: -1.197, assort_net: -1.232.
+2024-09-19 12:00:21,263 Train INFO: customer type: 2
+2024-09-19 12:11:19,759 Train INFO: Training Epoch: 1/10 , Training LL: -1.617 
+2024-09-19 12:11:20,356 Train INFO: Training Epoch: 2/10 , Training LL: -1.536 
+2024-09-19 12:11:20,950 Train INFO: Training Epoch: 3/10 , Training LL: -1.508 
+2024-09-19 12:11:21,548 Train INFO: Training Epoch: 4/10 , Training LL: -1.496 
+2024-09-19 12:11:22,143 Train INFO: Training Epoch: 5/10 , Training LL: -1.490 
+2024-09-19 12:11:22,737 Train INFO: Training Epoch: 6/10 , Training LL: -1.486 
+2024-09-19 12:11:23,333 Train INFO: Training Epoch: 7/10 , Training LL: -1.482 
+2024-09-19 12:11:23,931 Train INFO: Training Epoch: 8/10 , Training LL: -1.481 
+2024-09-19 12:11:24,568 Train INFO: Training Epoch: 9/10 , Training LL: -1.478 
+2024-09-19 12:11:25,207 Train INFO: Training Epoch: 10/10 , Training LL: -1.477 
+2024-09-19 12:11:25,348 Train INFO: Testing LL - mnl: -1.595, lcmnl: -1.573, rl: -1.894, mc: -1.453, assort_net: -1.491.
+2024-09-19 12:11:25,353 Train INFO: customer type: 3
+2024-09-19 12:22:38,309 Train INFO: Training Epoch: 1/10 , Training LL: -1.666 
+2024-09-19 12:22:38,895 Train INFO: Training Epoch: 2/10 , Training LL: -1.604 
+2024-09-19 12:22:39,481 Train INFO: Training Epoch: 3/10 , Training LL: -1.579 
+2024-09-19 12:22:40,066 Train INFO: Training Epoch: 4/10 , Training LL: -1.567 
+2024-09-19 12:22:40,652 Train INFO: Training Epoch: 5/10 , Training LL: -1.560 
+2024-09-19 12:22:41,238 Train INFO: Training Epoch: 6/10 , Training LL: -1.555 
+2024-09-19 12:22:41,824 Train INFO: Training Epoch: 7/10 , Training LL: -1.552 
+2024-09-19 12:22:42,410 Train INFO: Training Epoch: 8/10 , Training LL: -1.551 
+2024-09-19 12:22:42,995 Train INFO: Training Epoch: 9/10 , Training LL: -1.549 
+2024-09-19 12:22:43,583 Train INFO: Training Epoch: 10/10 , Training LL: -1.548 
+2024-09-19 12:22:43,718 Train INFO: Testing LL - mnl: -1.669, lcmnl: -1.628, rl: -1.973, mc: -1.550, assort_net: -1.568.
