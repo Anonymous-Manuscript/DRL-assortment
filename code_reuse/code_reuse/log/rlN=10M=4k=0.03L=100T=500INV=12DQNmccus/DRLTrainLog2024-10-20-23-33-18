@@ -1,0 +1,489 @@
+2024-10-20 23:33:18,764 Train INFO: Namespace(logger=<Logger Train (INFO)>, name=None, gpu='0', device=device(type='cpu'), gamma=1, epsilon_decay=0.998, epoch_num=40, batch_size=1, layer='128_64', lr=1e-05, num_steps=10, h=2, w=[64, 128], nn_out=64, share_lr=0.001, actor_lr=0.0001, critic_lr=0.0001, em_lr=0.001, step=100, lr_min=1e-05, e_rate=0.1, a_rate=1, c_rate=1, lr_decay_lambda=0.999, shape=True, cus_onehot=False, cus_embedding_dim=4, t_embedding_dim=1, GR_Train=False, GR_Test=True, MLP=False, CM='mc', DQN=True, load=False, only_test_Benchmark=False, only_test_DRL=False, only_test_DQN=False, UB=False, training_curves=True, detail=False, GT='rl', reuse_type='cus', stream='DQN_save/rlN=10M=4k=0.03L=100T=500INV=12DQNmccus2024-10-20-23-33-18', saved_time_stream='2024-09-20-23-10-36', folder='rlN=10M=4k=0.03L=100T=500INV=12DQNmccus', seed_range=10, net_seed=0, seed=0, info=True, k=0.03, L=100, T=500, cardinality=4, ini_inv=12, num_products=10, products=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], num_cus_types=4, rank_list=None, cus_type=None, seg_prob=None, seqdata=None, transdata=None)
+2024-10-20 23:33:18,765 Train INFO: log/rlN=10M=4k=0.03L=100T=500INV=12DQNmccus/DRLTrainLog2024-10-20-23-33-18
+2024-10-20 23:33:18,902 Train INFO: Load Factor 0.8333333333333334
+2024-10-20 23:35:17,444 Train INFO: initial mean reward: 13.5658
+2024-10-20 23:35:17,444 Train INFO: start epoch: 1 / 40
+2024-10-20 23:35:17,445 Train INFO: epsilon: 1
+2024-10-20 23:35:17,445 Train INFO: learning rate now: 1e-05
+2024-10-20 23:42:05,586 Train INFO: mean validate reward: 13.9366
+2024-10-20 23:42:05,587 Train INFO: start epoch: 2 / 40
+2024-10-20 23:42:05,587 Train INFO: epsilon: 0.009985630741373389
+2024-10-20 23:42:05,587 Train INFO: learning rate now: 1e-05
+2024-10-20 23:48:57,589 Train INFO: mean validate reward: 14.5170
+2024-10-20 23:48:57,590 Train INFO: start epoch: 3 / 40
+2024-10-20 23:48:57,590 Train INFO: epsilon: 0.009985630741373389
+2024-10-20 23:48:57,590 Train INFO: learning rate now: 1e-05
+2024-10-20 23:56:00,629 Train INFO: mean validate reward: 14.5849
+2024-10-20 23:56:00,631 Train INFO: start epoch: 4 / 40
+2024-10-20 23:56:00,631 Train INFO: epsilon: 0.009985630741373389
+2024-10-20 23:56:00,631 Train INFO: learning rate now: 1e-05
+2024-10-21 00:03:04,969 Train INFO: mean validate reward: 14.8919
+2024-10-21 00:03:04,970 Train INFO: start epoch: 5 / 40
+2024-10-21 00:03:04,970 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:03:04,970 Train INFO: learning rate now: 1e-05
+2024-10-21 00:10:10,097 Train INFO: mean validate reward: 15.2847
+2024-10-21 00:10:10,098 Train INFO: start epoch: 6 / 40
+2024-10-21 00:10:10,098 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:10:10,098 Train INFO: learning rate now: 1e-05
+2024-10-21 00:17:18,553 Train INFO: mean validate reward: 14.9891
+2024-10-21 00:17:18,553 Train INFO: start epoch: 7 / 40
+2024-10-21 00:17:18,553 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:17:18,553 Train INFO: learning rate now: 1e-05
+2024-10-21 00:24:22,679 Train INFO: mean validate reward: 15.0694
+2024-10-21 00:24:22,680 Train INFO: start epoch: 8 / 40
+2024-10-21 00:24:22,680 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:24:22,680 Train INFO: learning rate now: 1e-05
+2024-10-21 00:31:04,308 Train INFO: mean validate reward: 15.0260
+2024-10-21 00:31:04,309 Train INFO: start epoch: 9 / 40
+2024-10-21 00:31:04,309 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:31:04,309 Train INFO: learning rate now: 1e-05
+2024-10-21 00:37:46,632 Train INFO: mean validate reward: 15.0281
+2024-10-21 00:37:46,632 Train INFO: start epoch: 10 / 40
+2024-10-21 00:37:46,632 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:37:46,632 Train INFO: learning rate now: 1e-05
+2024-10-21 00:44:27,014 Train INFO: mean validate reward: 15.0361
+2024-10-21 00:44:27,014 Train INFO: start epoch: 11 / 40
+2024-10-21 00:44:27,014 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:44:27,014 Train INFO: learning rate now: 1e-05
+2024-10-21 00:51:06,778 Train INFO: mean validate reward: 14.9530
+2024-10-21 00:51:06,778 Train INFO: start epoch: 12 / 40
+2024-10-21 00:51:06,778 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:51:06,778 Train INFO: learning rate now: 1e-05
+2024-10-21 00:57:47,787 Train INFO: mean validate reward: 15.2845
+2024-10-21 00:57:47,788 Train INFO: start epoch: 13 / 40
+2024-10-21 00:57:47,788 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 00:57:47,788 Train INFO: learning rate now: 1e-05
+2024-10-21 01:04:28,436 Train INFO: mean validate reward: 15.2528
+2024-10-21 01:04:28,436 Train INFO: start epoch: 14 / 40
+2024-10-21 01:04:28,436 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:04:28,436 Train INFO: learning rate now: 1e-05
+2024-10-21 01:11:08,173 Train INFO: mean validate reward: 15.0543
+2024-10-21 01:11:08,173 Train INFO: start epoch: 15 / 40
+2024-10-21 01:11:08,173 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:11:08,173 Train INFO: learning rate now: 1e-05
+2024-10-21 01:17:50,004 Train INFO: mean validate reward: 14.9910
+2024-10-21 01:17:50,005 Train INFO: start epoch: 16 / 40
+2024-10-21 01:17:50,005 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:17:50,005 Train INFO: learning rate now: 1e-05
+2024-10-21 01:24:31,319 Train INFO: mean validate reward: 15.0142
+2024-10-21 01:24:31,319 Train INFO: start epoch: 17 / 40
+2024-10-21 01:24:31,319 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:24:31,319 Train INFO: learning rate now: 1e-05
+2024-10-21 01:31:12,378 Train INFO: mean validate reward: 14.9887
+2024-10-21 01:31:12,379 Train INFO: start epoch: 18 / 40
+2024-10-21 01:31:12,379 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:31:12,379 Train INFO: learning rate now: 1e-05
+2024-10-21 01:37:54,188 Train INFO: mean validate reward: 14.8743
+2024-10-21 01:37:54,188 Train INFO: start epoch: 19 / 40
+2024-10-21 01:37:54,188 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:37:54,188 Train INFO: learning rate now: 1e-05
+2024-10-21 01:44:37,406 Train INFO: mean validate reward: 13.9642
+2024-10-21 01:44:37,406 Train INFO: start epoch: 20 / 40
+2024-10-21 01:44:37,406 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:44:37,406 Train INFO: learning rate now: 1e-05
+2024-10-21 01:51:20,794 Train INFO: mean validate reward: 14.2768
+2024-10-21 01:51:20,794 Train INFO: start epoch: 21 / 40
+2024-10-21 01:51:20,794 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:51:20,794 Train INFO: learning rate now: 1e-05
+2024-10-21 01:58:04,967 Train INFO: mean validate reward: 14.6381
+2024-10-21 01:58:04,968 Train INFO: start epoch: 22 / 40
+2024-10-21 01:58:04,968 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 01:58:04,968 Train INFO: learning rate now: 1e-05
+2024-10-21 02:04:49,574 Train INFO: mean validate reward: 13.9760
+2024-10-21 02:04:49,574 Train INFO: start epoch: 23 / 40
+2024-10-21 02:04:49,574 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:04:49,574 Train INFO: learning rate now: 1e-05
+2024-10-21 02:11:31,816 Train INFO: mean validate reward: 14.4961
+2024-10-21 02:11:31,816 Train INFO: start epoch: 24 / 40
+2024-10-21 02:11:31,816 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:11:31,816 Train INFO: learning rate now: 1e-05
+2024-10-21 02:18:14,311 Train INFO: mean validate reward: 14.2657
+2024-10-21 02:18:14,312 Train INFO: start epoch: 25 / 40
+2024-10-21 02:18:14,312 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:18:14,312 Train INFO: learning rate now: 1e-05
+2024-10-21 02:24:58,179 Train INFO: mean validate reward: 14.2737
+2024-10-21 02:24:58,180 Train INFO: start epoch: 26 / 40
+2024-10-21 02:24:58,180 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:24:58,180 Train INFO: learning rate now: 1e-05
+2024-10-21 02:31:44,970 Train INFO: mean validate reward: 14.2979
+2024-10-21 02:31:44,971 Train INFO: start epoch: 27 / 40
+2024-10-21 02:31:44,971 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:31:44,971 Train INFO: learning rate now: 1e-05
+2024-10-21 02:38:29,000 Train INFO: mean validate reward: 14.0159
+2024-10-21 02:38:29,001 Train INFO: start epoch: 28 / 40
+2024-10-21 02:38:29,001 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:38:29,001 Train INFO: learning rate now: 1e-05
+2024-10-21 02:45:12,525 Train INFO: mean validate reward: 14.3386
+2024-10-21 02:45:12,525 Train INFO: start epoch: 29 / 40
+2024-10-21 02:45:12,525 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:45:12,525 Train INFO: learning rate now: 1e-05
+2024-10-21 02:51:57,014 Train INFO: mean validate reward: 14.2870
+2024-10-21 02:51:57,014 Train INFO: start epoch: 30 / 40
+2024-10-21 02:51:57,014 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:51:57,014 Train INFO: learning rate now: 1e-05
+2024-10-21 02:58:41,006 Train INFO: mean validate reward: 14.4471
+2024-10-21 02:58:41,006 Train INFO: start epoch: 31 / 40
+2024-10-21 02:58:41,006 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 02:58:41,007 Train INFO: learning rate now: 1e-05
+2024-10-21 03:05:23,933 Train INFO: mean validate reward: 13.8837
+2024-10-21 03:05:23,933 Train INFO: start epoch: 32 / 40
+2024-10-21 03:05:23,933 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:05:23,934 Train INFO: learning rate now: 1e-05
+2024-10-21 03:12:06,652 Train INFO: mean validate reward: 14.4511
+2024-10-21 03:12:06,652 Train INFO: start epoch: 33 / 40
+2024-10-21 03:12:06,652 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:12:06,652 Train INFO: learning rate now: 1e-05
+2024-10-21 03:18:50,734 Train INFO: mean validate reward: 14.2837
+2024-10-21 03:18:50,734 Train INFO: start epoch: 34 / 40
+2024-10-21 03:18:50,734 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:18:50,734 Train INFO: learning rate now: 1e-05
+2024-10-21 03:25:34,103 Train INFO: mean validate reward: 13.8691
+2024-10-21 03:25:34,103 Train INFO: start epoch: 35 / 40
+2024-10-21 03:25:34,103 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:25:34,103 Train INFO: learning rate now: 1e-05
+2024-10-21 03:32:18,393 Train INFO: mean validate reward: 14.0318
+2024-10-21 03:32:18,394 Train INFO: start epoch: 36 / 40
+2024-10-21 03:32:18,394 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:32:18,394 Train INFO: learning rate now: 1e-05
+2024-10-21 03:39:03,284 Train INFO: mean validate reward: 14.2466
+2024-10-21 03:39:03,285 Train INFO: start epoch: 37 / 40
+2024-10-21 03:39:03,285 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:39:03,285 Train INFO: learning rate now: 1e-05
+2024-10-21 03:45:48,538 Train INFO: mean validate reward: 13.9240
+2024-10-21 03:45:48,538 Train INFO: start epoch: 38 / 40
+2024-10-21 03:45:48,538 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:45:48,538 Train INFO: learning rate now: 1e-05
+2024-10-21 03:52:32,650 Train INFO: mean validate reward: 13.9558
+2024-10-21 03:52:32,651 Train INFO: start epoch: 39 / 40
+2024-10-21 03:52:32,651 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:52:32,651 Train INFO: learning rate now: 1e-05
+2024-10-21 03:59:17,939 Train INFO: mean validate reward: 14.3175
+2024-10-21 03:59:17,939 Train INFO: start epoch: 40 / 40
+2024-10-21 03:59:17,939 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 03:59:17,939 Train INFO: learning rate now: 1e-05
+2024-10-21 04:06:03,001 Train INFO: mean validate reward: 13.9482
+2024-10-21 04:06:03,012 Train INFO: log/rlN=10M=4k=0.03L=100T=500INV=12DQNmccus/DRLTrainLog2024-10-20-23-33-18completed0
+2024-10-21 04:07:56,312 Train INFO: initial mean reward: 13.7150
+2024-10-21 04:07:56,313 Train INFO: start epoch: 1 / 40
+2024-10-21 04:07:56,313 Train INFO: epsilon: 1
+2024-10-21 04:07:56,313 Train INFO: learning rate now: 1e-05
+2024-10-21 04:14:29,911 Train INFO: mean validate reward: 13.4977
+2024-10-21 04:14:29,911 Train INFO: start epoch: 2 / 40
+2024-10-21 04:14:29,911 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 04:14:29,911 Train INFO: learning rate now: 1e-05
+2024-10-21 04:21:12,124 Train INFO: mean validate reward: 13.4729
+2024-10-21 04:21:12,124 Train INFO: start epoch: 3 / 40
+2024-10-21 04:21:12,124 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 04:21:12,124 Train INFO: learning rate now: 1e-05
+2024-10-21 04:27:52,584 Train INFO: mean validate reward: 14.7957
+2024-10-21 04:27:52,584 Train INFO: start epoch: 4 / 40
+2024-10-21 04:27:52,584 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 04:27:52,584 Train INFO: learning rate now: 1e-05
+2024-10-21 04:34:31,534 Train INFO: mean validate reward: 13.9432
+2024-10-21 04:34:31,535 Train INFO: start epoch: 5 / 40
+2024-10-21 04:34:31,535 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 04:34:31,535 Train INFO: learning rate now: 1e-05
+2024-10-21 04:41:10,700 Train INFO: mean validate reward: 13.8936
+2024-10-21 04:41:10,700 Train INFO: start epoch: 6 / 40
+2024-10-21 04:41:10,700 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 04:41:10,700 Train INFO: learning rate now: 1e-05
+2024-10-21 04:47:51,276 Train INFO: mean validate reward: 13.9426
+2024-10-21 04:47:51,277 Train INFO: start epoch: 7 / 40
+2024-10-21 04:47:51,277 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 04:47:51,277 Train INFO: learning rate now: 1e-05
+2024-10-21 04:54:32,890 Train INFO: mean validate reward: 13.8766
+2024-10-21 04:54:32,891 Train INFO: start epoch: 8 / 40
+2024-10-21 04:54:32,891 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 04:54:32,891 Train INFO: learning rate now: 1e-05
+2024-10-21 05:01:15,813 Train INFO: mean validate reward: 13.9036
+2024-10-21 05:01:15,813 Train INFO: start epoch: 9 / 40
+2024-10-21 05:01:15,813 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:01:15,813 Train INFO: learning rate now: 1e-05
+2024-10-21 05:07:59,397 Train INFO: mean validate reward: 13.9208
+2024-10-21 05:07:59,397 Train INFO: start epoch: 10 / 40
+2024-10-21 05:07:59,397 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:07:59,397 Train INFO: learning rate now: 1e-05
+2024-10-21 05:14:44,895 Train INFO: mean validate reward: 13.9463
+2024-10-21 05:14:44,895 Train INFO: start epoch: 11 / 40
+2024-10-21 05:14:44,895 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:14:44,895 Train INFO: learning rate now: 1e-05
+2024-10-21 05:21:29,760 Train INFO: mean validate reward: 13.8808
+2024-10-21 05:21:29,760 Train INFO: start epoch: 12 / 40
+2024-10-21 05:21:29,760 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:21:29,760 Train INFO: learning rate now: 1e-05
+2024-10-21 05:28:14,805 Train INFO: mean validate reward: 13.8806
+2024-10-21 05:28:14,805 Train INFO: start epoch: 13 / 40
+2024-10-21 05:28:14,805 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:28:14,805 Train INFO: learning rate now: 1e-05
+2024-10-21 05:34:58,357 Train INFO: mean validate reward: 13.9252
+2024-10-21 05:34:58,357 Train INFO: start epoch: 14 / 40
+2024-10-21 05:34:58,357 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:34:58,357 Train INFO: learning rate now: 1e-05
+2024-10-21 05:41:41,720 Train INFO: mean validate reward: 13.8823
+2024-10-21 05:41:41,721 Train INFO: start epoch: 15 / 40
+2024-10-21 05:41:41,721 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:41:41,721 Train INFO: learning rate now: 1e-05
+2024-10-21 05:48:25,413 Train INFO: mean validate reward: 13.9221
+2024-10-21 05:48:25,413 Train INFO: start epoch: 16 / 40
+2024-10-21 05:48:25,413 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:48:25,413 Train INFO: learning rate now: 1e-05
+2024-10-21 05:55:10,788 Train INFO: mean validate reward: 13.8947
+2024-10-21 05:55:10,789 Train INFO: start epoch: 17 / 40
+2024-10-21 05:55:10,789 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 05:55:10,789 Train INFO: learning rate now: 1e-05
+2024-10-21 06:01:59,021 Train INFO: mean validate reward: 13.9190
+2024-10-21 06:01:59,021 Train INFO: start epoch: 18 / 40
+2024-10-21 06:01:59,021 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:01:59,021 Train INFO: learning rate now: 1e-05
+2024-10-21 06:08:47,000 Train INFO: mean validate reward: 13.9000
+2024-10-21 06:08:47,001 Train INFO: start epoch: 19 / 40
+2024-10-21 06:08:47,001 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:08:47,001 Train INFO: learning rate now: 1e-05
+2024-10-21 06:15:35,096 Train INFO: mean validate reward: 13.9168
+2024-10-21 06:15:35,096 Train INFO: start epoch: 20 / 40
+2024-10-21 06:15:35,096 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:15:35,096 Train INFO: learning rate now: 1e-05
+2024-10-21 06:22:22,974 Train INFO: mean validate reward: 13.9286
+2024-10-21 06:22:22,974 Train INFO: start epoch: 21 / 40
+2024-10-21 06:22:22,974 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:22:22,974 Train INFO: learning rate now: 1e-05
+2024-10-21 06:29:08,004 Train INFO: mean validate reward: 13.9214
+2024-10-21 06:29:08,004 Train INFO: start epoch: 22 / 40
+2024-10-21 06:29:08,005 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:29:08,005 Train INFO: learning rate now: 1e-05
+2024-10-21 06:35:54,287 Train INFO: mean validate reward: 13.9259
+2024-10-21 06:35:54,287 Train INFO: start epoch: 23 / 40
+2024-10-21 06:35:54,287 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:35:54,287 Train INFO: learning rate now: 1e-05
+2024-10-21 06:42:40,874 Train INFO: mean validate reward: 13.9277
+2024-10-21 06:42:40,874 Train INFO: start epoch: 24 / 40
+2024-10-21 06:42:40,874 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:42:40,874 Train INFO: learning rate now: 1e-05
+2024-10-21 06:49:27,874 Train INFO: mean validate reward: 13.8986
+2024-10-21 06:49:27,874 Train INFO: start epoch: 25 / 40
+2024-10-21 06:49:27,874 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:49:27,874 Train INFO: learning rate now: 1e-05
+2024-10-21 06:56:15,648 Train INFO: mean validate reward: 13.9465
+2024-10-21 06:56:15,648 Train INFO: start epoch: 26 / 40
+2024-10-21 06:56:15,648 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 06:56:15,648 Train INFO: learning rate now: 1e-05
+2024-10-21 07:03:05,227 Train INFO: mean validate reward: 13.9224
+2024-10-21 07:03:05,227 Train INFO: start epoch: 27 / 40
+2024-10-21 07:03:05,227 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:03:05,227 Train INFO: learning rate now: 1e-05
+2024-10-21 07:09:54,977 Train INFO: mean validate reward: 13.9241
+2024-10-21 07:09:54,977 Train INFO: start epoch: 28 / 40
+2024-10-21 07:09:54,977 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:09:54,977 Train INFO: learning rate now: 1e-05
+2024-10-21 07:16:44,891 Train INFO: mean validate reward: 13.9108
+2024-10-21 07:16:44,891 Train INFO: start epoch: 29 / 40
+2024-10-21 07:16:44,891 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:16:44,891 Train INFO: learning rate now: 1e-05
+2024-10-21 07:23:33,762 Train INFO: mean validate reward: 13.9441
+2024-10-21 07:23:33,762 Train INFO: start epoch: 30 / 40
+2024-10-21 07:23:33,762 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:23:33,762 Train INFO: learning rate now: 1e-05
+2024-10-21 07:30:21,184 Train INFO: mean validate reward: 13.9616
+2024-10-21 07:30:21,184 Train INFO: start epoch: 31 / 40
+2024-10-21 07:30:21,184 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:30:21,184 Train INFO: learning rate now: 1e-05
+2024-10-21 07:37:08,954 Train INFO: mean validate reward: 13.8880
+2024-10-21 07:37:08,954 Train INFO: start epoch: 32 / 40
+2024-10-21 07:37:08,954 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:37:08,954 Train INFO: learning rate now: 1e-05
+2024-10-21 07:43:57,193 Train INFO: mean validate reward: 13.9095
+2024-10-21 07:43:57,193 Train INFO: start epoch: 33 / 40
+2024-10-21 07:43:57,193 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:43:57,193 Train INFO: learning rate now: 1e-05
+2024-10-21 07:50:45,481 Train INFO: mean validate reward: 13.9081
+2024-10-21 07:50:45,482 Train INFO: start epoch: 34 / 40
+2024-10-21 07:50:45,482 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:50:45,482 Train INFO: learning rate now: 1e-05
+2024-10-21 07:57:36,151 Train INFO: mean validate reward: 13.9368
+2024-10-21 07:57:36,151 Train INFO: start epoch: 35 / 40
+2024-10-21 07:57:36,151 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 07:57:36,151 Train INFO: learning rate now: 1e-05
+2024-10-21 08:04:22,514 Train INFO: mean validate reward: 13.9016
+2024-10-21 08:04:22,514 Train INFO: start epoch: 36 / 40
+2024-10-21 08:04:22,514 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 08:04:22,514 Train INFO: learning rate now: 1e-05
+2024-10-21 08:11:11,702 Train INFO: mean validate reward: 13.8773
+2024-10-21 08:11:11,702 Train INFO: start epoch: 37 / 40
+2024-10-21 08:11:11,702 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 08:11:11,702 Train INFO: learning rate now: 1e-05
+2024-10-21 08:18:01,688 Train INFO: mean validate reward: 13.8990
+2024-10-21 08:18:01,688 Train INFO: start epoch: 38 / 40
+2024-10-21 08:18:01,688 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 08:18:01,688 Train INFO: learning rate now: 1e-05
+2024-10-21 08:24:52,147 Train INFO: mean validate reward: 13.8864
+2024-10-21 08:24:52,147 Train INFO: start epoch: 39 / 40
+2024-10-21 08:24:52,148 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 08:24:52,148 Train INFO: learning rate now: 1e-05
+2024-10-21 08:31:41,886 Train INFO: mean validate reward: 13.9214
+2024-10-21 08:31:41,886 Train INFO: start epoch: 40 / 40
+2024-10-21 08:31:41,886 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 08:31:41,886 Train INFO: learning rate now: 1e-05
+2024-10-21 08:38:28,878 Train INFO: mean validate reward: 13.9244
+2024-10-21 08:38:28,890 Train INFO: log/rlN=10M=4k=0.03L=100T=500INV=12DQNmccus/DRLTrainLog2024-10-20-23-33-18completed1
+2024-10-21 08:40:23,828 Train INFO: initial mean reward: 15.6866
+2024-10-21 08:40:23,829 Train INFO: start epoch: 1 / 40
+2024-10-21 08:40:23,829 Train INFO: epsilon: 1
+2024-10-21 08:40:23,829 Train INFO: learning rate now: 1e-05
+2024-10-21 08:46:55,230 Train INFO: mean validate reward: 13.9023
+2024-10-21 08:46:55,230 Train INFO: start epoch: 2 / 40
+2024-10-21 08:46:55,230 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 08:46:55,230 Train INFO: learning rate now: 1e-05
+2024-10-21 08:53:37,155 Train INFO: mean validate reward: 13.9290
+2024-10-21 08:53:37,155 Train INFO: start epoch: 3 / 40
+2024-10-21 08:53:37,155 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 08:53:37,155 Train INFO: learning rate now: 1e-05
+2024-10-21 09:00:21,699 Train INFO: mean validate reward: 13.8750
+2024-10-21 09:00:21,699 Train INFO: start epoch: 4 / 40
+2024-10-21 09:00:21,699 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:00:21,699 Train INFO: learning rate now: 1e-05
+2024-10-21 09:07:07,319 Train INFO: mean validate reward: 13.9623
+2024-10-21 09:07:07,320 Train INFO: start epoch: 5 / 40
+2024-10-21 09:07:07,320 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:07:07,320 Train INFO: learning rate now: 1e-05
+2024-10-21 09:13:53,326 Train INFO: mean validate reward: 13.8946
+2024-10-21 09:13:53,326 Train INFO: start epoch: 6 / 40
+2024-10-21 09:13:53,326 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:13:53,326 Train INFO: learning rate now: 1e-05
+2024-10-21 09:20:36,779 Train INFO: mean validate reward: 13.9105
+2024-10-21 09:20:36,779 Train INFO: start epoch: 7 / 40
+2024-10-21 09:20:36,779 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:20:36,779 Train INFO: learning rate now: 1e-05
+2024-10-21 09:27:21,833 Train INFO: mean validate reward: 13.9522
+2024-10-21 09:27:21,833 Train INFO: start epoch: 8 / 40
+2024-10-21 09:27:21,833 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:27:21,833 Train INFO: learning rate now: 1e-05
+2024-10-21 09:34:06,537 Train INFO: mean validate reward: 13.8878
+2024-10-21 09:34:06,537 Train INFO: start epoch: 9 / 40
+2024-10-21 09:34:06,537 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:34:06,537 Train INFO: learning rate now: 1e-05
+2024-10-21 09:40:52,635 Train INFO: mean validate reward: 13.9010
+2024-10-21 09:40:52,635 Train INFO: start epoch: 10 / 40
+2024-10-21 09:40:52,635 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:40:52,635 Train INFO: learning rate now: 1e-05
+2024-10-21 09:47:39,000 Train INFO: mean validate reward: 13.9046
+2024-10-21 09:47:39,001 Train INFO: start epoch: 11 / 40
+2024-10-21 09:47:39,001 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:47:39,001 Train INFO: learning rate now: 1e-05
+2024-10-21 09:54:37,743 Train INFO: mean validate reward: 13.9224
+2024-10-21 09:54:37,743 Train INFO: start epoch: 12 / 40
+2024-10-21 09:54:37,743 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 09:54:37,743 Train INFO: learning rate now: 1e-05
+2024-10-21 10:01:18,255 Train INFO: mean validate reward: 13.9262
+2024-10-21 10:01:18,255 Train INFO: start epoch: 13 / 40
+2024-10-21 10:01:18,255 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:01:18,255 Train INFO: learning rate now: 1e-05
+2024-10-21 10:08:02,973 Train INFO: mean validate reward: 13.9080
+2024-10-21 10:08:02,973 Train INFO: start epoch: 14 / 40
+2024-10-21 10:08:02,973 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:08:02,973 Train INFO: learning rate now: 1e-05
+2024-10-21 10:14:45,253 Train INFO: mean validate reward: 13.9465
+2024-10-21 10:14:45,253 Train INFO: start epoch: 15 / 40
+2024-10-21 10:14:45,253 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:14:45,253 Train INFO: learning rate now: 1e-05
+2024-10-21 10:21:29,164 Train INFO: mean validate reward: 13.9236
+2024-10-21 10:21:29,164 Train INFO: start epoch: 16 / 40
+2024-10-21 10:21:29,164 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:21:29,164 Train INFO: learning rate now: 1e-05
+2024-10-21 10:28:11,183 Train INFO: mean validate reward: 13.9712
+2024-10-21 10:28:11,184 Train INFO: start epoch: 17 / 40
+2024-10-21 10:28:11,184 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:28:11,184 Train INFO: learning rate now: 1e-05
+2024-10-21 10:34:56,653 Train INFO: mean validate reward: 13.9123
+2024-10-21 10:34:56,653 Train INFO: start epoch: 18 / 40
+2024-10-21 10:34:56,653 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:34:56,653 Train INFO: learning rate now: 1e-05
+2024-10-21 10:41:40,722 Train INFO: mean validate reward: 13.9459
+2024-10-21 10:41:40,723 Train INFO: start epoch: 19 / 40
+2024-10-21 10:41:40,723 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:41:40,723 Train INFO: learning rate now: 1e-05
+2024-10-21 10:48:26,845 Train INFO: mean validate reward: 13.9527
+2024-10-21 10:48:26,846 Train INFO: start epoch: 20 / 40
+2024-10-21 10:48:26,846 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:48:26,846 Train INFO: learning rate now: 1e-05
+2024-10-21 10:55:13,040 Train INFO: mean validate reward: 13.9292
+2024-10-21 10:55:13,040 Train INFO: start epoch: 21 / 40
+2024-10-21 10:55:13,040 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 10:55:13,040 Train INFO: learning rate now: 1e-05
+2024-10-21 11:01:59,123 Train INFO: mean validate reward: 13.9176
+2024-10-21 11:01:59,123 Train INFO: start epoch: 22 / 40
+2024-10-21 11:01:59,123 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:01:59,123 Train INFO: learning rate now: 1e-05
+2024-10-21 11:08:45,592 Train INFO: mean validate reward: 13.9601
+2024-10-21 11:08:45,592 Train INFO: start epoch: 23 / 40
+2024-10-21 11:08:45,592 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:08:45,592 Train INFO: learning rate now: 1e-05
+2024-10-21 11:15:31,137 Train INFO: mean validate reward: 13.9141
+2024-10-21 11:15:31,138 Train INFO: start epoch: 24 / 40
+2024-10-21 11:15:31,138 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:15:31,138 Train INFO: learning rate now: 1e-05
+2024-10-21 11:22:17,157 Train INFO: mean validate reward: 13.8982
+2024-10-21 11:22:17,157 Train INFO: start epoch: 25 / 40
+2024-10-21 11:22:17,157 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:22:17,157 Train INFO: learning rate now: 1e-05
+2024-10-21 11:29:03,936 Train INFO: mean validate reward: 13.9475
+2024-10-21 11:29:03,936 Train INFO: start epoch: 26 / 40
+2024-10-21 11:29:03,936 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:29:03,936 Train INFO: learning rate now: 1e-05
+2024-10-21 11:35:50,455 Train INFO: mean validate reward: 13.9761
+2024-10-21 11:35:50,455 Train INFO: start epoch: 27 / 40
+2024-10-21 11:35:50,455 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:35:50,455 Train INFO: learning rate now: 1e-05
+2024-10-21 11:42:36,530 Train INFO: mean validate reward: 13.9129
+2024-10-21 11:42:36,531 Train INFO: start epoch: 28 / 40
+2024-10-21 11:42:36,531 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:42:36,531 Train INFO: learning rate now: 1e-05
+2024-10-21 11:49:23,790 Train INFO: mean validate reward: 13.8907
+2024-10-21 11:49:23,790 Train INFO: start epoch: 29 / 40
+2024-10-21 11:49:23,790 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:49:23,791 Train INFO: learning rate now: 1e-05
+2024-10-21 11:56:12,233 Train INFO: mean validate reward: 13.9581
+2024-10-21 11:56:12,233 Train INFO: start epoch: 30 / 40
+2024-10-21 11:56:12,233 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 11:56:12,233 Train INFO: learning rate now: 1e-05
+2024-10-21 12:02:59,407 Train INFO: mean validate reward: 13.8925
+2024-10-21 12:02:59,408 Train INFO: start epoch: 31 / 40
+2024-10-21 12:02:59,408 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:02:59,408 Train INFO: learning rate now: 1e-05
+2024-10-21 12:09:47,396 Train INFO: mean validate reward: 13.8958
+2024-10-21 12:09:47,396 Train INFO: start epoch: 32 / 40
+2024-10-21 12:09:47,396 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:09:47,396 Train INFO: learning rate now: 1e-05
+2024-10-21 12:16:36,333 Train INFO: mean validate reward: 13.9333
+2024-10-21 12:16:36,333 Train INFO: start epoch: 33 / 40
+2024-10-21 12:16:36,333 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:16:36,333 Train INFO: learning rate now: 1e-05
+2024-10-21 12:23:24,009 Train INFO: mean validate reward: 13.9139
+2024-10-21 12:23:24,009 Train INFO: start epoch: 34 / 40
+2024-10-21 12:23:24,009 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:23:24,009 Train INFO: learning rate now: 1e-05
+2024-10-21 12:30:13,628 Train INFO: mean validate reward: 13.9167
+2024-10-21 12:30:13,628 Train INFO: start epoch: 35 / 40
+2024-10-21 12:30:13,628 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:30:13,628 Train INFO: learning rate now: 1e-05
+2024-10-21 12:37:14,489 Train INFO: mean validate reward: 13.9202
+2024-10-21 12:37:14,489 Train INFO: start epoch: 36 / 40
+2024-10-21 12:37:14,489 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:37:14,489 Train INFO: learning rate now: 1e-05
+2024-10-21 12:44:18,265 Train INFO: mean validate reward: 13.9005
+2024-10-21 12:44:18,265 Train INFO: start epoch: 37 / 40
+2024-10-21 12:44:18,265 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:44:18,265 Train INFO: learning rate now: 1e-05
+2024-10-21 12:51:23,535 Train INFO: mean validate reward: 13.8765
+2024-10-21 12:51:23,535 Train INFO: start epoch: 38 / 40
+2024-10-21 12:51:23,535 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:51:23,535 Train INFO: learning rate now: 1e-05
+2024-10-21 12:58:28,443 Train INFO: mean validate reward: 13.9287
+2024-10-21 12:58:28,443 Train INFO: start epoch: 39 / 40
+2024-10-21 12:58:28,443 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 12:58:28,443 Train INFO: learning rate now: 1e-05
+2024-10-21 13:05:28,659 Train INFO: mean validate reward: 13.9022
+2024-10-21 13:05:28,660 Train INFO: start epoch: 40 / 40
+2024-10-21 13:05:28,660 Train INFO: epsilon: 0.009985630741373389
+2024-10-21 13:05:28,660 Train INFO: learning rate now: 1e-05
+2024-10-21 13:12:26,125 Train INFO: mean validate reward: 13.8807
+2024-10-21 13:12:26,137 Train INFO: log/rlN=10M=4k=0.03L=100T=500INV=12DQNmccus/DRLTrainLog2024-10-20-23-33-18completed2
