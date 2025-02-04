@@ -1,0 +1,76 @@
+2025-01-13 00:22:12,639 Train INFO: Namespace(logger=<Logger Train (INFO)>, name=None, gpu='0', device=None, gamma=1, epsilon_decay=0.998, epoch_num=40, batch_size=1, layer='128_64', lr=1e-05, num_steps=10, h=2, w=[64, 64], nn_out=64, share_lr=0.001, actor_lr=0.001, critic_lr=0.001, em_lr=0.001, step=100, lr_min=1e-05, e_rate=0.1, a_rate=1, c_rate=1, lr_decay_lambda=0.999, shape=True, cus_onehot=False, cus_embedding_dim=4, t_embedding_dim=1, GR_Train=False, GR_Test=True, PG=False, PPO=False, MLP=False, CM='mc', DQN=False, load=False, only_test_Benchmark=False, only_test_DRL=False, only_test_DQN=False, UB=True, training_curves=True, detail=False, GT='lcmnl', stream='0', saved_time_stream='2024-12-13-10-40-21', folder='lcmnlN=10M=4k=0.03L=100T=500', seed_range=10, net_seed=0, seed=0, info=True, k=0.03, L=100, T=500, cardinality=4, ini_inv=12, num_products=10, products=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], num_cus_types=4, rank_list=None, cus_type=None, seg_prob=None, seqdata=None, transdata=None)
+2025-01-13 00:22:12,640 Train INFO: GT/lcmnlN=10M=4k=0.03L=100T=500/SimulationLog
+2025-01-13 00:22:12,640 Train INFO: prices:[15.75162278 16.35482199 16.56380817 18.17324774 18.23220256 19.04145064
+ 19.6884117  20.7278405  23.37659501 24.45494141]
+2025-01-13 00:22:20,270 Train INFO: customer type: 0
+2025-01-13 00:22:30,097 Train INFO: elapsed_time for mnl:9.780865907669067
+2025-01-13 00:22:45,380 Train INFO: elapsed_time for rcs:15.282880306243896
+2025-01-13 00:27:51,874 Train INFO: elapsed_time for lcmnl:306.49363112449646
+2025-01-13 00:31:41,967 Train INFO: elapsed_time for mc:230.0933198928833
+2025-01-13 00:31:42,683 Train INFO: Training Epoch: 1/10 , Training LL: -1.532 
+2025-01-13 00:31:43,360 Train INFO: Training Epoch: 2/10 , Training LL: -1.434 
+2025-01-13 00:31:44,032 Train INFO: Training Epoch: 3/10 , Training LL: -1.424 
+2025-01-13 00:31:44,708 Train INFO: Training Epoch: 4/10 , Training LL: -1.419 
+2025-01-13 00:31:45,190 Train INFO: Training Epoch: 5/10 , Training LL: -1.416 
+2025-01-13 00:31:45,646 Train INFO: Training Epoch: 6/10 , Training LL: -1.417 
+2025-01-13 00:31:46,094 Train INFO: Training Epoch: 7/10 , Training LL: -1.413 
+2025-01-13 00:31:46,541 Train INFO: Training Epoch: 8/10 , Training LL: -1.411 
+2025-01-13 00:31:47,003 Train INFO: Training Epoch: 9/10 , Training LL: -1.411 
+2025-01-13 00:31:47,469 Train INFO: Training Epoch: 10/10 , Training LL: -1.409 
+2025-01-13 00:31:47,470 Train INFO: elapsed_time for assort_net:5.502294301986694
+2025-01-13 00:31:47,638 Train INFO: In-sample Testing LL - mnl: -1.473, lcmnl: -1.435, rcs: -1.452, mc: -1.401, assort_net: -1.407.
+2025-01-13 00:31:47,723 Train INFO: Testing LL - mnl: -1.492, lcmnl: -1.451, rcs: -1.474, mc: -1.421, assort_net: -1.431.
+2025-01-13 00:31:47,725 Train INFO: customer type: 1
+2025-01-13 00:31:55,610 Train INFO: elapsed_time for mnl:7.861050367355347
+2025-01-13 00:32:06,409 Train INFO: elapsed_time for rcs:10.798804521560669
+2025-01-13 00:37:09,284 Train INFO: elapsed_time for lcmnl:302.8743586540222
+2025-01-13 00:40:44,540 Train INFO: elapsed_time for mc:215.25587511062622
+2025-01-13 00:40:45,335 Train INFO: Training Epoch: 1/10 , Training LL: -1.304 
+2025-01-13 00:40:46,120 Train INFO: Training Epoch: 2/10 , Training LL: -1.227 
+2025-01-13 00:40:46,709 Train INFO: Training Epoch: 3/10 , Training LL: -1.217 
+2025-01-13 00:40:47,269 Train INFO: Training Epoch: 4/10 , Training LL: -1.212 
+2025-01-13 00:40:47,824 Train INFO: Training Epoch: 5/10 , Training LL: -1.209 
+2025-01-13 00:40:48,387 Train INFO: Training Epoch: 6/10 , Training LL: -1.209 
+2025-01-13 00:40:48,963 Train INFO: Training Epoch: 7/10 , Training LL: -1.209 
+2025-01-13 00:40:49,530 Train INFO: Training Epoch: 8/10 , Training LL: -1.205 
+2025-01-13 00:40:50,101 Train INFO: Training Epoch: 9/10 , Training LL: -1.206 
+2025-01-13 00:40:50,685 Train INFO: Training Epoch: 10/10 , Training LL: -1.204 
+2025-01-13 00:40:50,685 Train INFO: elapsed_time for assort_net:6.1447484493255615
+2025-01-13 00:40:50,890 Train INFO: In-sample Testing LL - mnl: -1.261, lcmnl: -1.213, rcs: -1.247, mc: -1.195, assort_net: -1.203.
+2025-01-13 00:40:50,982 Train INFO: Testing LL - mnl: -1.270, lcmnl: -1.230, rcs: -1.257, mc: -1.218, assort_net: -1.228.
+2025-01-13 00:40:50,991 Train INFO: customer type: 2
+2025-01-13 00:41:05,582 Train INFO: elapsed_time for mnl:14.556343078613281
+2025-01-13 00:41:07,813 Train INFO: elapsed_time for rcs:2.2307512760162354
+2025-01-13 00:46:21,919 Train INFO: elapsed_time for lcmnl:314.10555243492126
+2025-01-13 00:51:07,356 Train INFO: elapsed_time for mc:285.4363148212433
+2025-01-13 00:51:07,949 Train INFO: Training Epoch: 1/10 , Training LL: -1.301 
+2025-01-13 00:51:08,530 Train INFO: Training Epoch: 2/10 , Training LL: -1.200 
+2025-01-13 00:51:09,124 Train INFO: Training Epoch: 3/10 , Training LL: -1.188 
+2025-01-13 00:51:09,707 Train INFO: Training Epoch: 4/10 , Training LL: -1.178 
+2025-01-13 00:51:10,304 Train INFO: Training Epoch: 5/10 , Training LL: -1.173 
+2025-01-13 00:51:10,907 Train INFO: Training Epoch: 6/10 , Training LL: -1.170 
+2025-01-13 00:51:11,515 Train INFO: Training Epoch: 7/10 , Training LL: -1.169 
+2025-01-13 00:51:12,127 Train INFO: Training Epoch: 8/10 , Training LL: -1.168 
+2025-01-13 00:51:12,737 Train INFO: Training Epoch: 9/10 , Training LL: -1.167 
+2025-01-13 00:51:13,350 Train INFO: Training Epoch: 10/10 , Training LL: -1.167 
+2025-01-13 00:51:13,351 Train INFO: elapsed_time for assort_net:5.994756460189819
+2025-01-13 00:51:13,549 Train INFO: In-sample Testing LL - mnl: -1.225, lcmnl: -1.194, rcs: -1.216, mc: -1.159, assort_net: -1.164.
+2025-01-13 00:51:13,639 Train INFO: Testing LL - mnl: -1.206, lcmnl: -1.176, rcs: -1.206, mc: -1.150, assort_net: -1.152.
+2025-01-13 00:51:13,644 Train INFO: customer type: 3
+2025-01-13 00:51:21,788 Train INFO: elapsed_time for mnl:8.119927644729614
+2025-01-13 00:52:06,125 Train INFO: elapsed_time for rcs:44.336552143096924
+2025-01-13 00:57:22,690 Train INFO: elapsed_time for lcmnl:316.5648829936981
+2025-01-13 01:01:53,665 Train INFO: elapsed_time for mc:270.9746608734131
+2025-01-13 01:01:54,297 Train INFO: Training Epoch: 1/10 , Training LL: -1.630 
+2025-01-13 01:01:54,882 Train INFO: Training Epoch: 2/10 , Training LL: -1.574 
+2025-01-13 01:01:55,467 Train INFO: Training Epoch: 3/10 , Training LL: -1.558 
+2025-01-13 01:01:56,051 Train INFO: Training Epoch: 4/10 , Training LL: -1.552 
+2025-01-13 01:01:56,646 Train INFO: Training Epoch: 5/10 , Training LL: -1.548 
+2025-01-13 01:01:57,234 Train INFO: Training Epoch: 6/10 , Training LL: -1.547 
+2025-01-13 01:01:57,828 Train INFO: Training Epoch: 7/10 , Training LL: -1.544 
+2025-01-13 01:01:58,423 Train INFO: Training Epoch: 8/10 , Training LL: -1.543 
+2025-01-13 01:01:59,013 Train INFO: Training Epoch: 9/10 , Training LL: -1.542 
+2025-01-13 01:01:59,603 Train INFO: Training Epoch: 10/10 , Training LL: -1.541 
+2025-01-13 01:01:59,604 Train INFO: elapsed_time for assort_net:5.939225912094116
+2025-01-13 01:01:59,779 Train INFO: In-sample Testing LL - mnl: -1.598, lcmnl: -1.570, rcs: -1.593, mc: -1.530, assort_net: -1.538.
+2025-01-13 01:01:59,863 Train INFO: Testing LL - mnl: -1.593, lcmnl: -1.564, rcs: -1.593, mc: -1.521, assort_net: -1.536.
