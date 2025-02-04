@@ -1,6 +1,8 @@
-This is the code for paper "Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach"
+## This is the code for paper "Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach"
 
 There are three types of experiments: simulation with ground-truth choice model, simulation with real data, simulation with ground-truth choice model and reusable products. These three types of experiments are recorded in the folder *code, code_realdata, code_reuse*, respectively.
+
+**In each folder, how each Figure/Table in the paper came out is explained, and the instructions to check and replicate the results are given in the correponding Markdown file.**
 
 For replicating the results in the *code* and *code_reuse* folder, you should follow two steps:
 
