@@ -1,0 +1,903 @@
+2024-12-16 13:51:04,186 Train INFO: GT/rlN=10M=4k=0.03L=100T=500/UB_INV11C4
+2024-12-16 13:51:04,187 Train INFO: Load Factor 0.9090909090909091
+2024-12-16 13:51:15,828 Train INFO: training upper bound:17.186268060988105
+2024-12-16 13:51:15,828 Train INFO: time for this instance:11.441153287887573
+2024-12-16 13:51:28,385 Train INFO: training upper bound:18.474514594429998
+2024-12-16 13:51:28,385 Train INFO: time for this instance:12.556792497634888
+2024-12-16 13:51:39,113 Train INFO: training upper bound:16.08404525696506
+2024-12-16 13:51:39,113 Train INFO: time for this instance:10.727138042449951
+2024-12-16 13:51:50,986 Train INFO: training upper bound:17.55986852825058
+2024-12-16 13:51:50,986 Train INFO: time for this instance:11.872840642929077
+2024-12-16 13:52:02,529 Train INFO: training upper bound:17.369456096989378
+2024-12-16 13:52:02,529 Train INFO: time for this instance:11.542428493499756
+2024-12-16 13:52:14,374 Train INFO: training upper bound:17.763947138445765
+2024-12-16 13:52:14,374 Train INFO: time for this instance:11.845399141311646
+2024-12-16 13:52:26,632 Train INFO: training upper bound:18.12642009646903
+2024-12-16 13:52:26,632 Train INFO: time for this instance:12.25719952583313
+2024-12-16 13:52:38,250 Train INFO: training upper bound:17.377565516784454
+2024-12-16 13:52:38,250 Train INFO: time for this instance:11.6180899143219
+2024-12-16 13:52:49,332 Train INFO: training upper bound:16.456263207749164
+2024-12-16 13:52:49,332 Train INFO: time for this instance:11.081351041793823
+2024-12-16 13:52:59,993 Train INFO: training upper bound:16.12256578903093
+2024-12-16 13:52:59,993 Train INFO: time for this instance:10.660578489303589
+2024-12-16 13:53:11,685 Train INFO: training upper bound:17.3368359850869
+2024-12-16 13:53:11,686 Train INFO: time for this instance:11.692400932312012
+2024-12-16 13:53:23,363 Train INFO: training upper bound:17.116584887811875
+2024-12-16 13:53:23,363 Train INFO: time for this instance:11.676934480667114
+2024-12-16 13:53:34,452 Train INFO: training upper bound:16.359778004832798
+2024-12-16 13:53:34,452 Train INFO: time for this instance:11.089011907577515
+2024-12-16 13:53:45,896 Train INFO: training upper bound:16.97307829120663
+2024-12-16 13:53:45,896 Train INFO: time for this instance:11.443958282470703
+2024-12-16 13:53:56,783 Train INFO: training upper bound:16.353553288184095
+2024-12-16 13:53:56,783 Train INFO: time for this instance:10.886322498321533
+2024-12-16 13:54:07,123 Train INFO: training upper bound:15.512280494437514
+2024-12-16 13:54:07,123 Train INFO: time for this instance:10.339914083480835
+2024-12-16 13:54:18,043 Train INFO: training upper bound:16.52727310002618
+2024-12-16 13:54:18,043 Train INFO: time for this instance:10.920088529586792
+2024-12-16 13:54:28,733 Train INFO: training upper bound:15.849760216229056
+2024-12-16 13:54:28,733 Train INFO: time for this instance:10.689764022827148
+2024-12-16 13:54:39,281 Train INFO: training upper bound:15.737266975631874
+2024-12-16 13:54:39,281 Train INFO: time for this instance:10.547600030899048
+2024-12-16 13:54:51,793 Train INFO: training upper bound:18.27173047159762
+2024-12-16 13:54:51,793 Train INFO: time for this instance:12.511219024658203
+2024-12-16 13:55:03,740 Train INFO: training upper bound:17.864294917117366
+2024-12-16 13:55:03,740 Train INFO: time for this instance:11.947047710418701
+2024-12-16 13:55:15,170 Train INFO: training upper bound:16.915036989217388
+2024-12-16 13:55:15,170 Train INFO: time for this instance:11.430263042449951
+2024-12-16 13:55:25,686 Train INFO: training upper bound:15.649423681391024
+2024-12-16 13:55:25,686 Train INFO: time for this instance:10.515641689300537
+2024-12-16 13:55:35,912 Train INFO: training upper bound:15.714358093508721
+2024-12-16 13:55:35,912 Train INFO: time for this instance:10.225636005401611
+2024-12-16 13:55:47,504 Train INFO: training upper bound:17.110278637279972
+2024-12-16 13:55:47,504 Train INFO: time for this instance:11.591797113418579
+2024-12-16 13:55:57,990 Train INFO: training upper bound:15.873353591671519
+2024-12-16 13:55:57,990 Train INFO: time for this instance:10.485186100006104
+2024-12-16 13:56:10,254 Train INFO: training upper bound:18.0616631790491
+2024-12-16 13:56:10,254 Train INFO: time for this instance:12.26383924484253
+2024-12-16 13:56:22,927 Train INFO: training upper bound:17.842211865432123
+2024-12-16 13:56:22,927 Train INFO: time for this instance:12.672656774520874
+2024-12-16 13:56:33,901 Train INFO: training upper bound:15.525874325921103
+2024-12-16 13:56:33,901 Train INFO: time for this instance:10.973607778549194
+2024-12-16 13:56:45,857 Train INFO: training upper bound:16.978874066426368
+2024-12-16 13:56:45,858 Train INFO: time for this instance:11.95667552947998
+2024-12-16 13:56:56,795 Train INFO: training upper bound:15.678544705968939
+2024-12-16 13:56:56,795 Train INFO: time for this instance:10.937105178833008
+2024-12-16 13:57:09,833 Train INFO: training upper bound:18.451146414881865
+2024-12-16 13:57:09,834 Train INFO: time for this instance:13.038401365280151
+2024-12-16 13:57:22,653 Train INFO: training upper bound:18.121292528057154
+2024-12-16 13:57:22,654 Train INFO: time for this instance:12.819653272628784
+2024-12-16 13:57:34,683 Train INFO: training upper bound:17.019229048900893
+2024-12-16 13:57:34,683 Train INFO: time for this instance:12.029366254806519
+2024-12-16 13:57:47,147 Train INFO: training upper bound:17.639476008692224
+2024-12-16 13:57:47,147 Train INFO: time for this instance:12.463675022125244
+2024-12-16 13:57:58,456 Train INFO: training upper bound:16.18616908588209
+2024-12-16 13:57:58,456 Train INFO: time for this instance:11.308598518371582
+2024-12-16 13:58:09,420 Train INFO: training upper bound:16.471420069712515
+2024-12-16 13:58:09,420 Train INFO: time for this instance:10.96368670463562
+2024-12-16 13:58:21,900 Train INFO: training upper bound:18.26744646691056
+2024-12-16 13:58:21,900 Train INFO: time for this instance:12.479613780975342
+2024-12-16 13:58:33,497 Train INFO: training upper bound:16.342037977841873
+2024-12-16 13:58:33,497 Train INFO: time for this instance:11.59688425064087
+2024-12-16 13:58:46,380 Train INFO: training upper bound:17.775447099979427
+2024-12-16 13:58:46,380 Train INFO: time for this instance:12.883142948150635
+2024-12-16 13:58:58,967 Train INFO: training upper bound:17.38563824109635
+2024-12-16 13:58:58,967 Train INFO: time for this instance:12.586430788040161
+2024-12-16 13:59:11,814 Train INFO: training upper bound:18.01998080736524
+2024-12-16 13:59:11,814 Train INFO: time for this instance:12.846919536590576
+2024-12-16 13:59:23,922 Train INFO: training upper bound:16.9585403200549
+2024-12-16 13:59:23,922 Train INFO: time for this instance:12.107959747314453
+2024-12-16 13:59:36,410 Train INFO: training upper bound:17.743068785371907
+2024-12-16 13:59:36,411 Train INFO: time for this instance:12.488073110580444
+2024-12-16 13:59:47,136 Train INFO: training upper bound:15.494032499526051
+2024-12-16 13:59:47,136 Train INFO: time for this instance:10.72487759590149
+2024-12-16 13:59:59,885 Train INFO: training upper bound:17.914465334183262
+2024-12-16 13:59:59,885 Train INFO: time for this instance:12.748914957046509
+2024-12-16 14:00:11,315 Train INFO: training upper bound:16.400752138179904
+2024-12-16 14:00:11,315 Train INFO: time for this instance:11.429996013641357
+2024-12-16 14:00:22,134 Train INFO: training upper bound:15.442104299272852
+2024-12-16 14:00:22,135 Train INFO: time for this instance:10.819077014923096
+2024-12-16 14:00:33,036 Train INFO: training upper bound:15.491393419484963
+2024-12-16 14:00:33,036 Train INFO: time for this instance:10.901253938674927
+2024-12-16 14:00:44,542 Train INFO: training upper bound:16.612649214010315
+2024-12-16 14:00:44,542 Train INFO: time for this instance:11.505922794342041
+2024-12-16 14:00:57,656 Train INFO: training upper bound:18.38414089283814
+2024-12-16 14:00:57,656 Train INFO: time for this instance:13.113179922103882
+2024-12-16 14:01:10,304 Train INFO: training upper bound:17.71951243056278
+2024-12-16 14:01:10,304 Train INFO: time for this instance:12.647850036621094
+2024-12-16 14:01:23,142 Train INFO: training upper bound:17.84317448409568
+2024-12-16 14:01:23,142 Train INFO: time for this instance:12.837872505187988
+2024-12-16 14:01:34,296 Train INFO: training upper bound:15.77705327524415
+2024-12-16 14:01:34,296 Train INFO: time for this instance:11.153778553009033
+2024-12-16 14:01:47,307 Train INFO: training upper bound:17.989736176973594
+2024-12-16 14:01:47,308 Train INFO: time for this instance:13.011287689208984
+2024-12-16 14:01:59,661 Train INFO: training upper bound:16.97989501705064
+2024-12-16 14:01:59,661 Train INFO: time for this instance:12.353389739990234
+2024-12-16 14:02:10,864 Train INFO: training upper bound:15.840050663270514
+2024-12-16 14:02:10,864 Train INFO: time for this instance:11.20221757888794
+2024-12-16 14:02:22,036 Train INFO: training upper bound:15.797914138345273
+2024-12-16 14:02:22,036 Train INFO: time for this instance:11.171468019485474
+2024-12-16 14:02:33,167 Train INFO: training upper bound:15.783824940572327
+2024-12-16 14:02:33,168 Train INFO: time for this instance:11.131662607192993
+2024-12-16 14:02:44,650 Train INFO: training upper bound:16.18953625217669
+2024-12-16 14:02:44,650 Train INFO: time for this instance:11.482284307479858
+2024-12-16 14:02:57,715 Train INFO: training upper bound:18.02210404047783
+2024-12-16 14:02:57,715 Train INFO: time for this instance:13.064410924911499
+2024-12-16 14:03:11,097 Train INFO: training upper bound:18.486014555963624
+2024-12-16 14:03:11,097 Train INFO: time for this instance:13.381730318069458
+2024-12-16 14:03:23,503 Train INFO: training upper bound:17.33452234051157
+2024-12-16 14:03:23,503 Train INFO: time for this instance:12.406096458435059
+2024-12-16 14:03:35,877 Train INFO: training upper bound:17.295003968881897
+2024-12-16 14:03:35,877 Train INFO: time for this instance:12.373642444610596
+2024-12-16 14:03:48,480 Train INFO: training upper bound:17.05605157998353
+2024-12-16 14:03:48,480 Train INFO: time for this instance:12.602506399154663
+2024-12-16 14:04:00,889 Train INFO: training upper bound:17.288493883642037
+2024-12-16 14:04:00,889 Train INFO: time for this instance:12.408591270446777
+2024-12-16 14:04:12,424 Train INFO: training upper bound:16.066771989857727
+2024-12-16 14:04:12,424 Train INFO: time for this instance:11.534971237182617
+2024-12-16 14:04:24,266 Train INFO: training upper bound:16.211735121591513
+2024-12-16 14:04:24,266 Train INFO: time for this instance:11.841779708862305
+2024-12-16 14:04:35,649 Train INFO: training upper bound:15.910583494389343
+2024-12-16 14:04:35,649 Train INFO: time for this instance:11.382989883422852
+2024-12-16 14:04:48,044 Train INFO: training upper bound:17.396728870029634
+2024-12-16 14:04:48,045 Train INFO: time for this instance:12.394978046417236
+2024-12-16 14:05:00,180 Train INFO: training upper bound:16.901110522189516
+2024-12-16 14:05:00,181 Train INFO: time for this instance:12.13568377494812
+2024-12-16 14:05:11,939 Train INFO: training upper bound:16.665106222236467
+2024-12-16 14:05:11,939 Train INFO: time for this instance:11.758140563964844
+2024-12-16 14:05:23,687 Train INFO: training upper bound:16.67820792659931
+2024-12-16 14:05:23,687 Train INFO: time for this instance:11.747581481933594
+2024-12-16 14:05:35,919 Train INFO: training upper bound:17.029942128125587
+2024-12-16 14:05:35,919 Train INFO: time for this instance:12.232181787490845
+2024-12-16 14:05:48,630 Train INFO: training upper bound:17.803782166490905
+2024-12-16 14:05:48,631 Train INFO: time for this instance:12.710814952850342
+2024-12-16 14:06:01,993 Train INFO: training upper bound:18.15258652234881
+2024-12-16 14:06:01,993 Train INFO: time for this instance:13.362039566040039
+2024-12-16 14:06:13,617 Train INFO: training upper bound:16.586791435745905
+2024-12-16 14:06:13,618 Train INFO: time for this instance:11.624154329299927
+2024-12-16 14:06:25,757 Train INFO: training upper bound:16.78800555205897
+2024-12-16 14:06:25,758 Train INFO: time for this instance:12.139796733856201
+2024-12-16 14:06:38,590 Train INFO: training upper bound:17.871046913079944
+2024-12-16 14:06:38,590 Train INFO: time for this instance:12.832550287246704
+2024-12-16 14:06:50,348 Train INFO: training upper bound:16.636462465581047
+2024-12-16 14:06:50,348 Train INFO: time for this instance:11.757192611694336
+2024-12-16 14:07:03,378 Train INFO: training upper bound:17.91012869653197
+2024-12-16 14:07:03,378 Train INFO: time for this instance:13.029821157455444
+2024-12-16 14:07:14,877 Train INFO: training upper bound:15.942241267895675
+2024-12-16 14:07:14,877 Train INFO: time for this instance:11.498748540878296
+2024-12-16 14:07:27,223 Train INFO: training upper bound:17.209294072616338
+2024-12-16 14:07:27,223 Train INFO: time for this instance:12.34546160697937
+2024-12-16 14:07:38,224 Train INFO: training upper bound:15.726942548902873
+2024-12-16 14:07:38,224 Train INFO: time for this instance:11.000858783721924
+2024-12-16 14:07:49,801 Train INFO: training upper bound:16.1759571926946
+2024-12-16 14:07:49,801 Train INFO: time for this instance:11.577160120010376
+2024-12-16 14:08:01,443 Train INFO: training upper bound:16.31924523589919
+2024-12-16 14:08:01,443 Train INFO: time for this instance:11.64187216758728
+2024-12-16 14:08:14,475 Train INFO: training upper bound:17.756851559894713
+2024-12-16 14:08:14,476 Train INFO: time for this instance:13.031912565231323
+2024-12-16 14:08:25,513 Train INFO: training upper bound:15.633718042759337
+2024-12-16 14:08:25,513 Train INFO: time for this instance:11.037060976028442
+2024-12-16 14:08:36,556 Train INFO: training upper bound:15.418855080445752
+2024-12-16 14:08:36,556 Train INFO: time for this instance:11.042985677719116
+2024-12-16 14:08:48,947 Train INFO: training upper bound:17.104053920631298
+2024-12-16 14:08:48,948 Train INFO: time for this instance:12.391015768051147
+2024-12-16 14:09:01,530 Train INFO: training upper bound:17.41468106320691
+2024-12-16 14:09:01,530 Train INFO: time for this instance:12.582306623458862
+2024-12-16 14:09:13,409 Train INFO: training upper bound:16.66302953256198
+2024-12-16 14:09:13,409 Train INFO: time for this instance:11.87864875793457
+2024-12-16 14:09:25,198 Train INFO: training upper bound:16.49626771864438
+2024-12-16 14:09:25,199 Train INFO: time for this instance:11.789226531982422
+2024-12-16 14:09:37,451 Train INFO: training upper bound:16.96513193917791
+2024-12-16 14:09:37,452 Train INFO: time for this instance:12.25277590751648
+2024-12-16 14:09:50,309 Train INFO: training upper bound:17.689685533456966
+2024-12-16 14:09:50,309 Train INFO: time for this instance:12.85678744316101
+2024-12-16 14:10:03,544 Train INFO: training upper bound:18.307220812334815
+2024-12-16 14:10:03,545 Train INFO: time for this instance:13.235510349273682
+2024-12-16 14:10:16,072 Train INFO: training upper bound:17.521479782805606
+2024-12-16 14:10:16,073 Train INFO: time for this instance:12.527790307998657
+2024-12-16 14:10:28,061 Train INFO: training upper bound:16.707822233590687
+2024-12-16 14:10:28,061 Train INFO: time for this instance:11.988252401351929
+2024-12-16 14:10:40,752 Train INFO: training upper bound:17.73068513401494
+2024-12-16 14:10:40,752 Train INFO: time for this instance:12.690901517868042
+2024-12-16 14:10:52,745 Train INFO: training upper bound:16.836599901902055
+2024-12-16 14:10:52,746 Train INFO: time for this instance:11.993045568466187
+2024-12-16 14:11:03,920 Train INFO: training upper bound:15.791698292886736
+2024-12-16 14:11:03,921 Train INFO: time for this instance:11.174725770950317
+2024-12-16 14:11:16,890 Train INFO: training upper bound:17.9206370968125
+2024-12-16 14:11:16,890 Train INFO: time for this instance:12.96884536743164
+2024-12-16 14:11:28,254 Train INFO: training upper bound:16.141319610096257
+2024-12-16 14:11:28,254 Train INFO: time for this instance:11.363755702972412
+2024-12-16 14:11:39,169 Train INFO: training upper bound:15.623176665648955
+2024-12-16 14:11:39,169 Train INFO: time for this instance:10.915305376052856
+2024-12-16 14:11:50,102 Train INFO: training upper bound:15.559397625773599
+2024-12-16 14:11:50,102 Train INFO: time for this instance:10.932005167007446
+2024-12-16 14:12:02,117 Train INFO: training upper bound:16.8772430441843
+2024-12-16 14:12:02,117 Train INFO: time for this instance:12.015205383300781
+2024-12-16 14:12:14,078 Train INFO: training upper bound:17.204594803388396
+2024-12-16 14:12:14,079 Train INFO: time for this instance:11.961159229278564
+2024-12-16 14:12:25,453 Train INFO: training upper bound:16.176242561285736
+2024-12-16 14:12:25,453 Train INFO: time for this instance:11.374133110046387
+2024-12-16 14:12:36,994 Train INFO: training upper bound:16.385410676376207
+2024-12-16 14:12:36,994 Train INFO: time for this instance:11.540797710418701
+2024-12-16 14:12:48,087 Train INFO: training upper bound:15.88515629979284
+2024-12-16 14:12:48,087 Train INFO: time for this instance:11.092801094055176
+2024-12-16 14:12:59,014 Train INFO: training upper bound:15.745605951168086
+2024-12-16 14:12:59,015 Train INFO: time for this instance:10.927165508270264
+2024-12-16 14:13:09,973 Train INFO: training upper bound:15.671162444982663
+2024-12-16 14:13:09,973 Train INFO: time for this instance:10.958412408828735
+2024-12-16 14:13:21,276 Train INFO: training upper bound:16.158990962146124
+2024-12-16 14:13:21,276 Train INFO: time for this instance:11.302513599395752
+2024-12-16 14:13:32,604 Train INFO: training upper bound:16.326766395512077
+2024-12-16 14:13:32,604 Train INFO: time for this instance:11.328100204467773
+2024-12-16 14:13:45,060 Train INFO: training upper bound:17.6100216833048
+2024-12-16 14:13:45,060 Train INFO: time for this instance:12.455261468887329
+2024-12-16 14:13:56,039 Train INFO: training upper bound:15.6846962337979
+2024-12-16 14:13:56,039 Train INFO: time for this instance:10.978774785995483
+2024-12-16 14:14:08,897 Train INFO: training upper bound:18.1090695581487
+2024-12-16 14:14:08,897 Train INFO: time for this instance:12.857964277267456
+2024-12-16 14:14:21,040 Train INFO: training upper bound:16.991071251325483
+2024-12-16 14:14:21,041 Train INFO: time for this instance:12.143110752105713
+2024-12-16 14:14:33,052 Train INFO: training upper bound:17.106293678072152
+2024-12-16 14:14:33,052 Train INFO: time for this instance:12.010807037353516
+2024-12-16 14:14:45,380 Train INFO: training upper bound:17.429137500475466
+2024-12-16 14:14:45,381 Train INFO: time for this instance:12.328517436981201
+2024-12-16 14:14:58,266 Train INFO: training upper bound:18.2392719047931
+2024-12-16 14:14:58,267 Train INFO: time for this instance:12.885810375213623
+2024-12-16 14:15:09,799 Train INFO: training upper bound:16.345810770863345
+2024-12-16 14:15:09,799 Train INFO: time for this instance:11.532360076904297
+2024-12-16 14:15:22,829 Train INFO: training upper bound:18.19578886075345
+2024-12-16 14:15:22,830 Train INFO: time for this instance:13.030212640762329
+2024-12-16 14:15:34,853 Train INFO: training upper bound:17.044576351853188
+2024-12-16 14:15:34,854 Train INFO: time for this instance:12.02377438545227
+2024-12-16 14:15:46,059 Train INFO: training upper bound:16.262715181261655
+2024-12-16 14:15:46,060 Train INFO: time for this instance:11.205642223358154
+2024-12-16 14:15:58,558 Train INFO: training upper bound:17.69710212079607
+2024-12-16 14:15:58,559 Train INFO: time for this instance:12.498708486557007
+2024-12-16 14:16:11,515 Train INFO: training upper bound:18.09179288903281
+2024-12-16 14:16:11,515 Train INFO: time for this instance:12.95645022392273
+2024-12-16 14:16:22,212 Train INFO: training upper bound:15.42607785605868
+2024-12-16 14:16:22,212 Train INFO: time for this instance:10.696247100830078
+2024-12-16 14:16:34,850 Train INFO: training upper bound:17.597902219401117
+2024-12-16 14:16:34,850 Train INFO: time for this instance:12.63769006729126
+2024-12-16 14:16:46,167 Train INFO: training upper bound:16.106804164400977
+2024-12-16 14:16:46,168 Train INFO: time for this instance:11.317537784576416
+2024-12-16 14:16:58,176 Train INFO: training upper bound:16.99867019580844
+2024-12-16 14:16:58,177 Train INFO: time for this instance:12.008816242218018
+2024-12-16 14:17:09,951 Train INFO: training upper bound:16.78286969465337
+2024-12-16 14:17:09,951 Train INFO: time for this instance:11.774402141571045
+2024-12-16 14:17:20,886 Train INFO: training upper bound:15.877906422772327
+2024-12-16 14:17:20,886 Train INFO: time for this instance:10.93437671661377
+2024-12-16 14:17:32,754 Train INFO: training upper bound:16.91649275093482
+2024-12-16 14:17:32,754 Train INFO: time for this instance:11.867796182632446
+2024-12-16 14:17:43,973 Train INFO: training upper bound:16.023656371211725
+2024-12-16 14:17:43,973 Train INFO: time for this instance:11.219106435775757
+2024-12-16 14:17:55,146 Train INFO: training upper bound:15.856809825619619
+2024-12-16 14:17:55,146 Train INFO: time for this instance:11.172514200210571
+2024-12-16 14:18:07,861 Train INFO: training upper bound:17.835196539078076
+2024-12-16 14:18:07,861 Train INFO: time for this instance:12.71437954902649
+2024-12-16 14:18:19,538 Train INFO: training upper bound:16.683588385654442
+2024-12-16 14:18:19,538 Train INFO: time for this instance:11.676836252212524
+2024-12-16 14:18:32,376 Train INFO: training upper bound:18.032163828229674
+2024-12-16 14:18:32,376 Train INFO: time for this instance:12.837619304656982
+2024-12-16 14:18:43,564 Train INFO: training upper bound:16.463007081388255
+2024-12-16 14:18:43,564 Train INFO: time for this instance:11.18816351890564
+2024-12-16 14:18:55,712 Train INFO: training upper bound:17.269289763455273
+2024-12-16 14:18:55,712 Train INFO: time for this instance:12.147732734680176
+2024-12-16 14:19:07,124 Train INFO: training upper bound:16.40705838871178
+2024-12-16 14:19:07,124 Train INFO: time for this instance:11.411417484283447
+2024-12-16 14:19:18,327 Train INFO: training upper bound:15.881657474551497
+2024-12-16 14:19:18,327 Train INFO: time for this instance:11.20267128944397
+2024-12-16 14:19:31,145 Train INFO: training upper bound:18.38907403669557
+2024-12-16 14:19:31,145 Train INFO: time for this instance:12.8180832862854
+2024-12-16 14:19:43,294 Train INFO: training upper bound:17.30278725314423
+2024-12-16 14:19:43,294 Train INFO: time for this instance:12.148359060287476
+2024-12-16 14:19:54,048 Train INFO: training upper bound:15.365869451668857
+2024-12-16 14:19:54,048 Train INFO: time for this instance:10.754005670547485
+2024-12-16 14:20:06,998 Train INFO: training upper bound:18.295976135030987
+2024-12-16 14:20:06,998 Train INFO: time for this instance:12.949997901916504
+2024-12-16 14:20:18,965 Train INFO: training upper bound:17.00750157237232
+2024-12-16 14:20:18,966 Train INFO: time for this instance:11.966944694519043
+2024-12-16 14:20:30,560 Train INFO: training upper bound:16.611376014987783
+2024-12-16 14:20:30,560 Train INFO: time for this instance:11.594369411468506
+2024-12-16 14:20:41,798 Train INFO: training upper bound:16.082923754391636
+2024-12-16 14:20:41,798 Train INFO: time for this instance:11.237513065338135
+2024-12-16 14:20:52,717 Train INFO: training upper bound:15.890629697113587
+2024-12-16 14:20:52,717 Train INFO: time for this instance:10.918386697769165
+2024-12-16 14:21:04,035 Train INFO: training upper bound:16.20743721940508
+2024-12-16 14:21:04,035 Train INFO: time for this instance:11.318359375
+2024-12-16 14:21:17,002 Train INFO: training upper bound:18.12736546447591
+2024-12-16 14:21:17,002 Train INFO: time for this instance:12.966176748275757
+2024-12-16 14:21:28,840 Train INFO: training upper bound:16.935289201705665
+2024-12-16 14:21:28,841 Train INFO: time for this instance:11.838282108306885
+2024-12-16 14:21:41,350 Train INFO: training upper bound:17.696740985909504
+2024-12-16 14:21:41,350 Train INFO: time for this instance:12.509324550628662
+2024-12-16 14:21:52,993 Train INFO: training upper bound:16.60831727275448
+2024-12-16 14:21:52,993 Train INFO: time for this instance:11.642433166503906
+2024-12-16 14:22:03,697 Train INFO: training upper bound:15.179406667216902
+2024-12-16 14:22:03,697 Train INFO: time for this instance:10.703802108764648
+2024-12-16 14:22:15,405 Train INFO: training upper bound:16.591164569441094
+2024-12-16 14:22:15,406 Train INFO: time for this instance:11.708310604095459
+2024-12-16 14:22:27,903 Train INFO: training upper bound:17.828348838712326
+2024-12-16 14:22:27,903 Train INFO: time for this instance:12.49696135520935
+2024-12-16 14:22:40,866 Train INFO: training upper bound:18.29878058730074
+2024-12-16 14:22:40,866 Train INFO: time for this instance:12.963444471359253
+2024-12-16 14:22:51,568 Train INFO: training upper bound:15.424855656463691
+2024-12-16 14:22:51,568 Train INFO: time for this instance:10.701200723648071
+2024-12-16 14:23:03,489 Train INFO: training upper bound:16.902465255095237
+2024-12-16 14:23:03,490 Train INFO: time for this instance:11.921485662460327
+2024-12-16 14:23:15,862 Train INFO: training upper bound:17.433000158858533
+2024-12-16 14:23:15,862 Train INFO: time for this instance:12.371971368789673
+2024-12-16 14:23:27,422 Train INFO: training upper bound:16.30572166205139
+2024-12-16 14:23:27,422 Train INFO: time for this instance:11.559954404830933
+2024-12-16 14:23:38,258 Train INFO: training upper bound:15.618586732052758
+2024-12-16 14:23:38,258 Train INFO: time for this instance:10.836171865463257
+2024-12-16 14:23:48,969 Train INFO: training upper bound:15.420054485858781
+2024-12-16 14:23:48,969 Train INFO: time for this instance:10.710670948028564
+2024-12-16 14:24:00,575 Train INFO: training upper bound:16.506380464652313
+2024-12-16 14:24:00,575 Train INFO: time for this instance:11.605658054351807
+2024-12-16 14:24:12,154 Train INFO: training upper bound:16.539755653516472
+2024-12-16 14:24:12,154 Train INFO: time for this instance:11.578366756439209
+2024-12-16 14:24:25,163 Train INFO: training upper bound:18.196190121738486
+2024-12-16 14:24:25,163 Train INFO: time for this instance:13.00884199142456
+2024-12-16 14:24:37,106 Train INFO: training upper bound:16.81495218956649
+2024-12-16 14:24:37,106 Train INFO: time for this instance:11.942975997924805
+2024-12-16 14:24:48,417 Train INFO: training upper bound:16.34770312075841
+2024-12-16 14:24:48,418 Train INFO: time for this instance:11.311173915863037
+2024-12-16 14:24:59,382 Train INFO: training upper bound:15.824386347517283
+2024-12-16 14:24:59,382 Train INFO: time for this instance:10.96398639678955
+2024-12-16 14:25:11,368 Train INFO: training upper bound:16.814707587916924
+2024-12-16 14:25:11,368 Train INFO: time for this instance:11.98607611656189
+2024-12-16 14:25:22,134 Train INFO: training upper bound:15.310767306577588
+2024-12-16 14:25:22,134 Train INFO: time for this instance:10.7654869556427
+2024-12-16 14:25:33,463 Train INFO: training upper bound:16.109002980258296
+2024-12-16 14:25:33,463 Train INFO: time for this instance:11.32891035079956
+2024-12-16 14:25:45,264 Train INFO: training upper bound:17.044501372119363
+2024-12-16 14:25:45,264 Train INFO: time for this instance:11.800424098968506
+2024-12-16 14:25:56,933 Train INFO: training upper bound:16.712175124658806
+2024-12-16 14:25:56,933 Train INFO: time for this instance:11.668744325637817
+2024-12-16 14:26:09,876 Train INFO: training upper bound:18.204444066864358
+2024-12-16 14:26:09,876 Train INFO: time for this instance:12.94296407699585
+2024-12-16 14:26:22,913 Train INFO: training upper bound:17.991725993050753
+2024-12-16 14:26:22,913 Train INFO: time for this instance:13.03682255744934
+2024-12-16 14:26:33,947 Train INFO: training upper bound:16.010435722382155
+2024-12-16 14:26:33,947 Train INFO: time for this instance:11.033584833145142
+2024-12-16 14:26:46,061 Train INFO: training upper bound:17.455532895729245
+2024-12-16 14:26:46,062 Train INFO: time for this instance:12.114434957504272
+2024-12-16 14:26:58,597 Train INFO: training upper bound:17.684537907143373
+2024-12-16 14:26:58,598 Train INFO: time for this instance:12.535723447799683
+2024-12-16 14:27:09,532 Train INFO: training upper bound:15.846038199835737
+2024-12-16 14:27:09,532 Train INFO: time for this instance:10.934093475341797
+2024-12-16 14:27:22,140 Train INFO: training upper bound:17.689765785653957
+2024-12-16 14:27:22,140 Train INFO: time for this instance:12.607502460479736
+2024-12-16 14:27:33,920 Train INFO: training upper bound:16.63012405206836
+2024-12-16 14:27:33,920 Train INFO: time for this instance:11.780253171920776
+2024-12-16 14:27:46,743 Train INFO: training upper bound:18.514389748573606
+2024-12-16 14:27:46,743 Train INFO: time for this instance:12.822813510894775
+2024-12-16 14:27:59,588 Train INFO: training upper bound:17.84879954480035
+2024-12-16 14:27:59,588 Train INFO: time for this instance:12.844746112823486
+2024-12-16 14:28:10,508 Train INFO: training upper bound:15.685801971118469
+2024-12-16 14:28:10,509 Train INFO: time for this instance:10.919915437698364
+2024-12-16 14:28:22,229 Train INFO: training upper bound:16.722943689517756
+2024-12-16 14:28:22,230 Train INFO: time for this instance:11.72078561782837
+2024-12-16 14:28:34,691 Train INFO: training upper bound:17.573195339334422
+2024-12-16 14:28:34,691 Train INFO: time for this instance:12.461286783218384
+2024-12-16 14:28:46,057 Train INFO: training upper bound:16.393626979988607
+2024-12-16 14:28:46,057 Train INFO: time for this instance:11.365466117858887
+2024-12-16 14:28:58,588 Train INFO: training upper bound:17.943764342715074
+2024-12-16 14:28:58,588 Train INFO: time for this instance:12.531201601028442
+2024-12-16 14:29:09,716 Train INFO: training upper bound:15.703144215536915
+2024-12-16 14:29:09,716 Train INFO: time for this instance:11.127608299255371
+2024-12-16 14:29:20,582 Train INFO: training upper bound:15.692290833836505
+2024-12-16 14:29:20,583 Train INFO: time for this instance:10.86621356010437
+2024-12-16 14:29:32,027 Train INFO: training upper bound:16.47837764155475
+2024-12-16 14:29:32,027 Train INFO: time for this instance:11.444316864013672
+2024-12-16 14:29:43,173 Train INFO: training upper bound:16.16527780846753
+2024-12-16 14:29:43,173 Train INFO: time for this instance:11.145731210708618
+2024-12-16 14:29:55,092 Train INFO: training upper bound:16.431949608557844
+2024-12-16 14:29:55,092 Train INFO: time for this instance:11.918309688568115
+2024-12-16 14:30:07,984 Train INFO: training upper bound:18.15988273139239
+2024-12-16 14:30:07,984 Train INFO: time for this instance:12.892050504684448
+2024-12-16 14:30:19,543 Train INFO: training upper bound:16.55090576000164
+2024-12-16 14:30:19,544 Train INFO: time for this instance:11.559131860733032
+2024-12-16 14:30:30,879 Train INFO: training upper bound:16.27449908522825
+2024-12-16 14:30:30,880 Train INFO: time for this instance:11.33579421043396
+2024-12-16 14:30:42,337 Train INFO: training upper bound:16.302291314981108
+2024-12-16 14:30:42,337 Train INFO: time for this instance:11.456939935684204
+2024-12-16 14:30:53,894 Train INFO: training upper bound:16.644832737735154
+2024-12-16 14:30:53,895 Train INFO: time for this instance:11.557281017303467
+2024-12-16 14:31:06,618 Train INFO: training upper bound:18.13379655770964
+2024-12-16 14:31:06,618 Train INFO: time for this instance:12.723275899887085
+2024-12-16 14:31:18,134 Train INFO: training upper bound:16.37914519278591
+2024-12-16 14:31:18,135 Train INFO: time for this instance:11.51607894897461
+2024-12-16 14:31:29,761 Train INFO: training upper bound:16.549697153295035
+2024-12-16 14:31:29,761 Train INFO: time for this instance:11.626370191574097
+2024-12-16 14:31:40,674 Train INFO: training upper bound:15.751717843351752
+2024-12-16 14:31:40,674 Train INFO: time for this instance:10.913102626800537
+2024-12-16 14:31:52,267 Train INFO: training upper bound:16.41845972970762
+2024-12-16 14:31:52,267 Train INFO: time for this instance:11.592742443084717
+2024-12-16 14:32:03,013 Train INFO: training upper bound:15.639100247136135
+2024-12-16 14:32:03,013 Train INFO: time for this instance:10.745769739151001
+2024-12-16 14:32:14,976 Train INFO: training upper bound:17.25924315536514
+2024-12-16 14:32:14,976 Train INFO: time for this instance:11.962128639221191
+2024-12-16 14:32:27,292 Train INFO: training upper bound:17.61525833192465
+2024-12-16 14:32:27,292 Train INFO: time for this instance:12.31585693359375
+2024-12-16 14:32:39,098 Train INFO: training upper bound:16.567144411422035
+2024-12-16 14:32:39,098 Train INFO: time for this instance:11.806341648101807
+2024-12-16 14:32:51,812 Train INFO: training upper bound:18.209069129520586
+2024-12-16 14:32:51,813 Train INFO: time for this instance:12.71389365196228
+2024-12-16 14:33:03,110 Train INFO: training upper bound:16.081718685194975
+2024-12-16 14:33:03,111 Train INFO: time for this instance:11.297576665878296
+2024-12-16 14:33:14,733 Train INFO: training upper bound:16.78997943583723
+2024-12-16 14:33:14,733 Train INFO: time for this instance:11.622176170349121
+2024-12-16 14:33:25,464 Train INFO: training upper bound:15.370984992672357
+2024-12-16 14:33:25,464 Train INFO: time for this instance:10.730631351470947
+2024-12-16 14:33:36,959 Train INFO: training upper bound:16.208406590082017
+2024-12-16 14:33:36,959 Train INFO: time for this instance:11.494966983795166
+2024-12-16 14:33:49,354 Train INFO: training upper bound:17.58557538937888
+2024-12-16 14:33:49,354 Train INFO: time for this instance:12.394944190979004
+2024-12-16 14:34:01,031 Train INFO: training upper bound:16.58342205212036
+2024-12-16 14:34:01,031 Train INFO: time for this instance:11.67617416381836
+2024-12-16 14:34:13,339 Train INFO: training upper bound:17.316317898936028
+2024-12-16 14:34:13,339 Train INFO: time for this instance:12.30794882774353
+2024-12-16 14:34:25,043 Train INFO: training upper bound:16.737440893727882
+2024-12-16 14:34:25,043 Train INFO: time for this instance:11.703574895858765
+2024-12-16 14:34:36,469 Train INFO: training upper bound:16.35285668134946
+2024-12-16 14:34:36,469 Train INFO: time for this instance:11.426327228546143
+2024-12-16 14:34:48,027 Train INFO: training upper bound:16.757815407040933
+2024-12-16 14:34:48,027 Train INFO: time for this instance:11.557554483413696
+2024-12-16 14:34:59,858 Train INFO: training upper bound:16.90166941119193
+2024-12-16 14:34:59,858 Train INFO: time for this instance:11.830853462219238
+2024-12-16 14:35:12,354 Train INFO: training upper bound:17.880366887621875
+2024-12-16 14:35:12,354 Train INFO: time for this instance:12.495869636535645
+2024-12-16 14:35:24,852 Train INFO: training upper bound:17.504967927875608
+2024-12-16 14:35:24,852 Train INFO: time for this instance:12.497189044952393
+2024-12-16 14:35:37,470 Train INFO: training upper bound:17.76310357472096
+2024-12-16 14:35:37,470 Train INFO: time for this instance:12.61811113357544
+2024-12-16 14:35:50,410 Train INFO: training upper bound:18.41868784807735
+2024-12-16 14:35:50,410 Train INFO: time for this instance:12.939652442932129
+2024-12-16 14:36:01,914 Train INFO: training upper bound:16.43295693391776
+2024-12-16 14:36:01,914 Train INFO: time for this instance:11.503669023513794
+2024-12-16 14:36:12,878 Train INFO: training upper bound:15.650859379329546
+2024-12-16 14:36:12,879 Train INFO: time for this instance:10.964330434799194
+2024-12-16 14:36:25,554 Train INFO: training upper bound:17.543601274970147
+2024-12-16 14:36:25,554 Train INFO: time for this instance:12.675324440002441
+2024-12-16 14:36:36,411 Train INFO: training upper bound:15.445469679712001
+2024-12-16 14:36:36,411 Train INFO: time for this instance:10.857059955596924
+2024-12-16 14:36:47,742 Train INFO: training upper bound:16.180218839399775
+2024-12-16 14:36:47,742 Train INFO: time for this instance:11.330336332321167
+2024-12-16 14:37:00,075 Train INFO: training upper bound:17.376639725307715
+2024-12-16 14:37:00,075 Train INFO: time for this instance:12.332383632659912
+2024-12-16 14:37:11,477 Train INFO: training upper bound:16.354723681310404
+2024-12-16 14:37:11,478 Train INFO: time for this instance:11.402637481689453
+2024-12-16 14:37:23,390 Train INFO: training upper bound:16.788168619825324
+2024-12-16 14:37:23,390 Train INFO: time for this instance:11.912298440933228
+2024-12-16 14:37:35,984 Train INFO: training upper bound:17.282179462104175
+2024-12-16 14:37:35,984 Train INFO: time for this instance:12.593701124191284
+2024-12-16 14:37:48,341 Train INFO: training upper bound:17.566419380432016
+2024-12-16 14:37:48,341 Train INFO: time for this instance:12.356649160385132
+2024-12-16 14:38:00,360 Train INFO: training upper bound:17.30420224792007
+2024-12-16 14:38:00,360 Train INFO: time for this instance:12.018624067306519
+2024-12-16 14:38:12,468 Train INFO: training upper bound:17.42866779210492
+2024-12-16 14:38:12,468 Train INFO: time for this instance:12.107988834381104
+2024-12-16 14:38:25,050 Train INFO: training upper bound:17.8841078505012
+2024-12-16 14:38:25,050 Train INFO: time for this instance:12.58192229270935
+2024-12-16 14:38:36,496 Train INFO: training upper bound:16.373683199847594
+2024-12-16 14:38:36,496 Train INFO: time for this instance:11.445765256881714
+2024-12-16 14:38:49,234 Train INFO: training upper bound:17.889569843439507
+2024-12-16 14:38:49,234 Train INFO: time for this instance:12.737220525741577
+2024-12-16 14:39:01,604 Train INFO: training upper bound:17.7317293282323
+2024-12-16 14:39:01,604 Train INFO: time for this instance:12.36965823173523
+2024-12-16 14:39:12,512 Train INFO: training upper bound:16.00557331379844
+2024-12-16 14:39:12,512 Train INFO: time for this instance:10.908171653747559
+2024-12-16 14:39:23,326 Train INFO: training upper bound:15.706416337907658
+2024-12-16 14:39:23,326 Train INFO: time for this instance:10.813746690750122
+2024-12-16 14:39:34,310 Train INFO: training upper bound:15.51043038161935
+2024-12-16 14:39:34,311 Train INFO: time for this instance:10.984065055847168
+2024-12-16 14:39:45,926 Train INFO: training upper bound:16.55408978996025
+2024-12-16 14:39:45,927 Train INFO: time for this instance:11.615817070007324
+2024-12-16 14:39:56,969 Train INFO: training upper bound:15.729685273812482
+2024-12-16 14:39:56,969 Train INFO: time for this instance:11.04172396659851
+2024-12-16 14:40:09,749 Train INFO: training upper bound:18.24015559461642
+2024-12-16 14:40:09,749 Train INFO: time for this instance:12.780253648757935
+2024-12-16 14:40:21,439 Train INFO: training upper bound:16.693873978333922
+2024-12-16 14:40:21,439 Train INFO: time for this instance:11.689635753631592
+2024-12-16 14:40:33,229 Train INFO: training upper bound:16.648961269780802
+2024-12-16 14:40:33,229 Train INFO: time for this instance:11.790059328079224
+2024-12-16 14:40:45,387 Train INFO: training upper bound:17.309175037559275
+2024-12-16 14:40:45,387 Train INFO: time for this instance:12.157432794570923
+2024-12-16 14:40:57,377 Train INFO: training upper bound:16.807250439187307
+2024-12-16 14:40:57,377 Train INFO: time for this instance:11.989859104156494
+2024-12-16 14:41:10,371 Train INFO: training upper bound:18.448502467006154
+2024-12-16 14:41:10,372 Train INFO: time for this instance:12.993963718414307
+2024-12-16 14:41:21,229 Train INFO: training upper bound:15.637186649121091
+2024-12-16 14:41:21,229 Train INFO: time for this instance:10.85732650756836
+2024-12-16 14:41:32,517 Train INFO: training upper bound:16.39398928641259
+2024-12-16 14:41:32,518 Train INFO: time for this instance:11.28821873664856
+2024-12-16 14:41:44,206 Train INFO: training upper bound:16.524414191712765
+2024-12-16 14:41:44,206 Train INFO: time for this instance:11.688157558441162
+2024-12-16 14:41:55,283 Train INFO: training upper bound:15.897384165224736
+2024-12-16 14:41:55,283 Train INFO: time for this instance:11.07726502418518
+2024-12-16 14:42:06,756 Train INFO: training upper bound:16.572967774614277
+2024-12-16 14:42:06,756 Train INFO: time for this instance:11.472560405731201
+2024-12-16 14:42:18,126 Train INFO: training upper bound:16.345301491537654
+2024-12-16 14:42:18,126 Train INFO: time for this instance:11.369708776473999
+2024-12-16 14:42:30,625 Train INFO: training upper bound:17.7133692477973
+2024-12-16 14:42:30,625 Train INFO: time for this instance:12.498857736587524
+2024-12-16 14:42:42,533 Train INFO: training upper bound:16.9450304414821
+2024-12-16 14:42:42,533 Train INFO: time for this instance:11.907914161682129
+2024-12-16 14:42:53,300 Train INFO: training upper bound:15.391386740154218
+2024-12-16 14:42:53,301 Train INFO: time for this instance:10.766981363296509
+2024-12-16 14:43:06,037 Train INFO: training upper bound:18.014732860657823
+2024-12-16 14:43:06,037 Train INFO: time for this instance:12.736098766326904
+2024-12-16 14:43:18,645 Train INFO: training upper bound:17.704456337350226
+2024-12-16 14:43:18,646 Train INFO: time for this instance:12.608357667922974
+2024-12-16 14:43:30,136 Train INFO: training upper bound:16.270798978640265
+2024-12-16 14:43:30,136 Train INFO: time for this instance:11.49012804031372
+2024-12-16 14:43:40,836 Train INFO: training upper bound:15.485876344601527
+2024-12-16 14:43:40,836 Train INFO: time for this instance:10.699841499328613
+2024-12-16 14:43:52,520 Train INFO: training upper bound:16.731297710962366
+2024-12-16 14:43:52,520 Train INFO: time for this instance:11.683969974517822
+2024-12-16 14:44:03,605 Train INFO: training upper bound:15.744365220613599
+2024-12-16 14:44:03,605 Train INFO: time for this instance:11.084396123886108
+2024-12-16 14:44:14,897 Train INFO: training upper bound:16.11495470020666
+2024-12-16 14:44:14,897 Train INFO: time for this instance:11.291747808456421
+2024-12-16 14:44:26,331 Train INFO: training upper bound:16.267169848840055
+2024-12-16 14:44:26,332 Train INFO: time for this instance:11.434223175048828
+2024-12-16 14:44:38,526 Train INFO: training upper bound:17.277684551841517
+2024-12-16 14:44:38,526 Train INFO: time for this instance:12.194146633148193
+2024-12-16 14:44:50,240 Train INFO: training upper bound:16.517133289474042
+2024-12-16 14:44:50,241 Train INFO: time for this instance:11.714415788650513
+2024-12-16 14:45:02,482 Train INFO: training upper bound:17.270848331068944
+2024-12-16 14:45:02,482 Train INFO: time for this instance:12.241592645645142
+2024-12-16 14:45:15,242 Train INFO: training upper bound:17.93209693224763
+2024-12-16 14:45:15,242 Train INFO: time for this instance:12.759338855743408
+2024-12-16 14:45:26,099 Train INFO: training upper bound:15.626213932005886
+2024-12-16 14:45:26,099 Train INFO: time for this instance:10.85666036605835
+2024-12-16 14:45:37,899 Train INFO: training upper bound:16.870015857707813
+2024-12-16 14:45:37,899 Train INFO: time for this instance:11.799679517745972
+2024-12-16 14:45:49,307 Train INFO: training upper bound:16.162786926000837
+2024-12-16 14:45:49,307 Train INFO: time for this instance:11.407992839813232
+2024-12-16 14:46:01,649 Train INFO: training upper bound:17.31518827275134
+2024-12-16 14:46:01,649 Train INFO: time for this instance:12.341623306274414
+2024-12-16 14:46:13,740 Train INFO: training upper bound:16.926498592083384
+2024-12-16 14:46:13,741 Train INFO: time for this instance:12.091099500656128
+2024-12-16 14:46:24,520 Train INFO: training upper bound:15.364725622927002
+2024-12-16 14:46:24,521 Train INFO: time for this instance:10.77979302406311
+2024-12-16 14:46:35,686 Train INFO: training upper bound:16.030647426826157
+2024-12-16 14:46:35,687 Train INFO: time for this instance:11.165848016738892
+2024-12-16 14:46:48,613 Train INFO: training upper bound:18.188258101056885
+2024-12-16 14:46:48,613 Train INFO: time for this instance:12.925819873809814
+2024-12-16 14:46:59,359 Train INFO: training upper bound:15.274955196365148
+2024-12-16 14:46:59,359 Train INFO: time for this instance:10.745820999145508
+2024-12-16 14:47:12,126 Train INFO: training upper bound:18.02278523030502
+2024-12-16 14:47:12,126 Train INFO: time for this instance:12.766669988632202
+2024-12-16 14:47:24,720 Train INFO: training upper bound:17.982274293853326
+2024-12-16 14:47:24,720 Train INFO: time for this instance:12.594175100326538
+2024-12-16 14:47:35,411 Train INFO: training upper bound:15.323139672745121
+2024-12-16 14:47:35,412 Train INFO: time for this instance:10.691038846969604
+2024-12-16 14:47:47,955 Train INFO: training upper bound:17.471511205128262
+2024-12-16 14:47:47,955 Train INFO: time for this instance:12.543298244476318
+2024-12-16 14:47:59,732 Train INFO: training upper bound:16.74114048434458
+2024-12-16 14:47:59,732 Train INFO: time for this instance:11.776333808898926
+2024-12-16 14:48:10,917 Train INFO: training upper bound:16.088914087311345
+2024-12-16 14:48:10,917 Train INFO: time for this instance:11.185196876525879
+2024-12-16 14:48:22,491 Train INFO: training upper bound:16.544421802551497
+2024-12-16 14:48:22,491 Train INFO: time for this instance:11.573643922805786
+2024-12-16 14:48:35,234 Train INFO: training upper bound:18.07901418262886
+2024-12-16 14:48:35,234 Train INFO: time for this instance:12.74235224723816
+2024-12-16 14:48:46,179 Train INFO: training upper bound:15.785505798398004
+2024-12-16 14:48:46,179 Train INFO: time for this instance:10.945024967193604
+2024-12-16 14:48:59,059 Train INFO: training upper bound:18.090433891965493
+2024-12-16 14:48:59,059 Train INFO: time for this instance:12.879335641860962
+2024-12-16 14:49:11,870 Train INFO: training upper bound:18.041622471966917
+2024-12-16 14:49:11,870 Train INFO: time for this instance:12.811001539230347
+2024-12-16 14:49:22,582 Train INFO: training upper bound:15.450844109767935
+2024-12-16 14:49:22,583 Train INFO: time for this instance:10.712260961532593
+2024-12-16 14:49:34,074 Train INFO: training upper bound:16.593179220160966
+2024-12-16 14:49:34,075 Train INFO: time for this instance:11.491749286651611
+2024-12-16 14:49:46,331 Train INFO: training upper bound:17.48290847466572
+2024-12-16 14:49:46,332 Train INFO: time for this instance:12.256741762161255
+2024-12-16 14:49:57,467 Train INFO: training upper bound:16.217857117518456
+2024-12-16 14:49:57,467 Train INFO: time for this instance:11.134807825088501
+2024-12-16 14:50:10,243 Train INFO: training upper bound:17.965118180087444
+2024-12-16 14:50:10,243 Train INFO: time for this instance:12.77615761756897
+2024-12-16 14:50:21,332 Train INFO: training upper bound:15.810140809760004
+2024-12-16 14:50:21,332 Train INFO: time for this instance:11.088588953018188
+2024-12-16 14:50:33,817 Train INFO: training upper bound:17.498539376518956
+2024-12-16 14:50:33,817 Train INFO: time for this instance:12.484725713729858
+2024-12-16 14:50:46,133 Train INFO: training upper bound:17.440191433925538
+2024-12-16 14:50:46,133 Train INFO: time for this instance:12.315658807754517
+2024-12-16 14:50:58,323 Train INFO: training upper bound:17.135829774940202
+2024-12-16 14:50:58,323 Train INFO: time for this instance:12.189935207366943
+2024-12-16 14:51:10,902 Train INFO: training upper bound:17.79035432091659
+2024-12-16 14:51:10,902 Train INFO: time for this instance:12.579021453857422
+2024-12-16 14:51:21,794 Train INFO: training upper bound:15.625070103264026
+2024-12-16 14:51:21,794 Train INFO: time for this instance:10.891806364059448
+2024-12-16 14:51:32,735 Train INFO: training upper bound:15.791698292886736
+2024-12-16 14:51:32,735 Train INFO: time for this instance:10.940812349319458
+2024-12-16 14:51:44,993 Train INFO: training upper bound:17.149197352965643
+2024-12-16 14:51:44,993 Train INFO: time for this instance:12.257323503494263
+2024-12-16 14:51:56,570 Train INFO: training upper bound:16.61924083313333
+2024-12-16 14:51:56,570 Train INFO: time for this instance:11.577014207839966
+2024-12-16 14:52:07,679 Train INFO: training upper bound:15.851200413200242
+2024-12-16 14:52:07,679 Train INFO: time for this instance:11.108985185623169
+2024-12-16 14:52:20,183 Train INFO: training upper bound:17.76382676015026
+2024-12-16 14:52:20,183 Train INFO: time for this instance:12.502938508987427
+2024-12-16 14:52:31,034 Train INFO: training upper bound:15.720135180643696
+2024-12-16 14:52:31,034 Train INFO: time for this instance:10.850834131240845
+2024-12-16 14:52:42,744 Train INFO: training upper bound:16.470291975544587
+2024-12-16 14:52:42,744 Train INFO: time for this instance:11.709620237350464
+2024-12-16 14:52:55,807 Train INFO: training upper bound:18.332283348322598
+2024-12-16 14:52:55,807 Train INFO: time for this instance:13.063034296035767
+2024-12-16 14:53:08,786 Train INFO: training upper bound:18.29625701772054
+2024-12-16 14:53:08,786 Train INFO: time for this instance:12.978562593460083
+2024-12-16 14:53:20,131 Train INFO: training upper bound:16.163466992455632
+2024-12-16 14:53:20,131 Train INFO: time for this instance:11.344887971878052
+2024-12-16 14:53:31,262 Train INFO: training upper bound:16.30136138487998
+2024-12-16 14:53:31,262 Train INFO: time for this instance:11.130812883377075
+2024-12-16 14:53:42,165 Train INFO: training upper bound:15.837596599085831
+2024-12-16 14:53:42,165 Train INFO: time for this instance:10.902653932571411
+2024-12-16 14:53:54,660 Train INFO: training upper bound:17.63634861357856
+2024-12-16 14:53:54,661 Train INFO: time for this instance:12.495500564575195
+2024-12-16 14:54:06,135 Train INFO: training upper bound:16.20183560156378
+2024-12-16 14:54:06,135 Train INFO: time for this instance:11.47385859489441
+2024-12-16 14:54:18,673 Train INFO: training upper bound:17.644856467747335
+2024-12-16 14:54:18,673 Train INFO: time for this instance:12.537696599960327
+2024-12-16 14:54:31,650 Train INFO: training upper bound:18.15455670363298
+2024-12-16 14:54:31,650 Train INFO: time for this instance:12.977300882339478
+2024-12-16 14:54:44,015 Train INFO: training upper bound:17.53732591181389
+2024-12-16 14:54:44,015 Train INFO: time for this instance:12.364219427108765
+2024-12-16 14:54:55,400 Train INFO: training upper bound:16.314101033430145
+2024-12-16 14:54:55,400 Train INFO: time for this instance:11.384551763534546
+2024-12-16 14:55:06,776 Train INFO: training upper bound:16.315927266449513
+2024-12-16 14:55:06,776 Train INFO: time for this instance:11.376104593276978
+2024-12-16 14:55:18,286 Train INFO: training upper bound:16.499522971866686
+2024-12-16 14:55:18,286 Train INFO: time for this instance:11.509706974029541
+2024-12-16 14:55:31,080 Train INFO: training upper bound:18.045671926001017
+2024-12-16 14:55:31,080 Train INFO: time for this instance:12.794073581695557
+2024-12-16 14:55:44,079 Train INFO: training upper bound:18.225884185317284
+2024-12-16 14:55:44,079 Train INFO: time for this instance:12.998112916946411
+2024-12-16 14:55:56,116 Train INFO: training upper bound:16.833230518276498
+2024-12-16 14:55:56,116 Train INFO: time for this instance:12.037292003631592
+2024-12-16 14:56:06,842 Train INFO: training upper bound:15.385967559398484
+2024-12-16 14:56:06,842 Train INFO: time for this instance:10.72501802444458
+2024-12-16 14:56:18,268 Train INFO: training upper bound:16.505625387690603
+2024-12-16 14:56:18,268 Train INFO: time for this instance:11.426129817962646
+2024-12-16 14:56:29,263 Train INFO: training upper bound:15.858304149688745
+2024-12-16 14:56:29,263 Train INFO: time for this instance:10.994381666183472
+2024-12-16 14:56:41,443 Train INFO: training upper bound:17.16944956545393
+2024-12-16 14:56:41,443 Train INFO: time for this instance:12.180060625076294
+2024-12-16 14:56:54,044 Train INFO: training upper bound:17.830109096764687
+2024-12-16 14:56:54,044 Train INFO: time for this instance:12.60022234916687
+2024-12-16 14:57:05,141 Train INFO: training upper bound:15.976864533201232
+2024-12-16 14:57:05,141 Train INFO: time for this instance:11.097009897232056
+2024-12-16 14:57:16,321 Train INFO: training upper bound:15.942326274929721
+2024-12-16 14:57:16,321 Train INFO: time for this instance:11.179880857467651
+2024-12-16 14:57:28,153 Train INFO: training upper bound:16.70960923168522
+2024-12-16 14:57:28,153 Train INFO: time for this instance:11.832107543945312
+2024-12-16 14:57:39,571 Train INFO: training upper bound:16.02844390627449
+2024-12-16 14:57:39,571 Train INFO: time for this instance:11.417461395263672
+2024-12-16 14:57:52,627 Train INFO: training upper bound:18.39652454419511
+2024-12-16 14:57:52,627 Train INFO: time for this instance:13.055846452713013
+2024-12-16 14:58:04,420 Train INFO: training upper bound:16.828857384581294
+2024-12-16 14:58:04,420 Train INFO: time for this instance:11.792887449264526
+2024-12-16 14:58:15,187 Train INFO: training upper bound:15.344417065767104
+2024-12-16 14:58:15,187 Train INFO: time for this instance:10.76680850982666
+2024-12-16 14:58:27,922 Train INFO: training upper bound:18.00226895710386
+2024-12-16 14:58:27,922 Train INFO: time for this instance:12.734444618225098
+2024-12-16 14:58:39,045 Train INFO: training upper bound:16.15917539264361
+2024-12-16 14:58:39,045 Train INFO: time for this instance:11.123077392578125
+2024-12-16 14:58:51,382 Train INFO: training upper bound:17.14923811990724
+2024-12-16 14:58:51,383 Train INFO: time for this instance:12.33704137802124
+2024-12-16 14:59:03,793 Train INFO: training upper bound:17.26920058282342
+2024-12-16 14:59:03,794 Train INFO: time for this instance:12.410757064819336
+2024-12-16 14:59:16,183 Train INFO: training upper bound:17.415047965681236
+2024-12-16 14:59:16,183 Train INFO: time for this instance:12.389268398284912
+2024-12-16 14:59:28,432 Train INFO: training upper bound:17.446476902978027
+2024-12-16 14:59:28,433 Train INFO: time for this instance:12.249068021774292
+2024-12-16 14:59:39,730 Train INFO: training upper bound:16.048304813749528
+2024-12-16 14:59:39,730 Train INFO: time for this instance:11.297426223754883
+2024-12-16 14:59:52,069 Train INFO: training upper bound:17.499505934937318
+2024-12-16 14:59:52,069 Train INFO: time for this instance:12.338955402374268
+2024-12-16 15:00:04,599 Train INFO: training upper bound:17.69698174250054
+2024-12-16 15:00:04,599 Train INFO: time for this instance:12.52971339225769
+2024-12-16 15:00:15,561 Train INFO: training upper bound:15.656382784986752
+2024-12-16 15:00:15,561 Train INFO: time for this instance:10.9614417552948
+2024-12-16 15:00:27,471 Train INFO: training upper bound:16.91994773990198
+2024-12-16 15:00:27,471 Train INFO: time for this instance:11.909388542175293
+2024-12-16 15:00:39,836 Train INFO: training upper bound:17.413592203963802
+2024-12-16 15:00:39,837 Train INFO: time for this instance:12.365647554397583
+2024-12-16 15:00:52,060 Train INFO: training upper bound:17.44199460318876
+2024-12-16 15:00:52,060 Train INFO: time for this instance:12.223426342010498
+2024-12-16 15:01:03,202 Train INFO: training upper bound:15.97777688299649
+2024-12-16 15:01:03,202 Train INFO: time for this instance:11.14175820350647
+2024-12-16 15:01:14,864 Train INFO: training upper bound:16.484447383725595
+2024-12-16 15:01:14,864 Train INFO: time for this instance:11.661197900772095
+2024-12-16 15:01:25,592 Train INFO: training upper bound:15.364930580850483
+2024-12-16 15:01:25,592 Train INFO: time for this instance:10.728159189224243
+2024-12-16 15:01:38,332 Train INFO: training upper bound:17.716183813878843
+2024-12-16 15:01:38,332 Train INFO: time for this instance:12.73997974395752
+2024-12-16 15:01:51,272 Train INFO: training upper bound:18.04362366366481
+2024-12-16 15:01:51,272 Train INFO: time for this instance:12.93928050994873
+2024-12-16 15:02:03,604 Train INFO: training upper bound:17.17630705823954
+2024-12-16 15:02:03,604 Train INFO: time for this instance:12.331542253494263
+2024-12-16 15:02:14,585 Train INFO: training upper bound:15.671572360829646
+2024-12-16 15:02:14,585 Train INFO: time for this instance:10.981096506118774
+2024-12-16 15:02:27,434 Train INFO: training upper bound:18.196873181069304
+2024-12-16 15:02:27,435 Train INFO: time for this instance:12.8492112159729
+2024-12-16 15:02:40,305 Train INFO: training upper bound:18.29998528591211
+2024-12-16 15:02:40,305 Train INFO: time for this instance:12.870060682296753
+2024-12-16 15:02:51,995 Train INFO: training upper bound:16.861477496483754
+2024-12-16 15:02:51,995 Train INFO: time for this instance:11.689438104629517
+2024-12-16 15:03:04,491 Train INFO: training upper bound:17.770239279370518
+2024-12-16 15:03:04,491 Train INFO: time for this instance:12.495995998382568
+2024-12-16 15:03:16,967 Train INFO: training upper bound:17.770279405469054
+2024-12-16 15:03:16,967 Train INFO: time for this instance:12.475807666778564
+2024-12-16 15:03:29,038 Train INFO: training upper bound:16.993677911240688
+2024-12-16 15:03:29,038 Train INFO: time for this instance:12.070936679840088
+2024-12-16 15:03:41,498 Train INFO: training upper bound:17.81373941603934
+2024-12-16 15:03:41,498 Train INFO: time for this instance:12.459423780441284
+2024-12-16 15:03:52,598 Train INFO: training upper bound:15.610333675315612
+2024-12-16 15:03:52,598 Train INFO: time for this instance:11.099712610244751
+2024-12-16 15:04:04,141 Train INFO: training upper bound:16.418704331357176
+2024-12-16 15:04:04,141 Train INFO: time for this instance:11.542785167694092
+2024-12-16 15:04:15,364 Train INFO: training upper bound:16.070247332339
+2024-12-16 15:04:15,364 Train INFO: time for this instance:11.222979545593262
+2024-12-16 15:04:27,970 Train INFO: training upper bound:17.94861102843742
+2024-12-16 15:04:27,971 Train INFO: time for this instance:12.606287479400635
+2024-12-16 15:04:40,493 Train INFO: training upper bound:17.431625931024282
+2024-12-16 15:04:40,493 Train INFO: time for this instance:12.522575855255127
+2024-12-16 15:04:52,708 Train INFO: training upper bound:17.14373536002733
+2024-12-16 15:04:52,708 Train INFO: time for this instance:12.214374303817749
+2024-12-16 15:05:03,801 Train INFO: training upper bound:15.789917052625075
+2024-12-16 15:05:03,802 Train INFO: time for this instance:11.093127489089966
+2024-12-16 15:05:16,173 Train INFO: training upper bound:17.55999082907537
+2024-12-16 15:05:16,173 Train INFO: time for this instance:12.37144136428833
+2024-12-16 15:05:29,123 Train INFO: training upper bound:18.100214992260437
+2024-12-16 15:05:29,123 Train INFO: time for this instance:12.949573755264282
+2024-12-16 15:05:41,782 Train INFO: training upper bound:17.818752972620132
+2024-12-16 15:05:41,782 Train INFO: time for this instance:12.658592462539673
+2024-12-16 15:05:54,118 Train INFO: training upper bound:17.30019727506999
+2024-12-16 15:05:54,118 Train INFO: time for this instance:12.335791826248169
+2024-12-16 15:06:06,056 Train INFO: training upper bound:17.23692189995106
+2024-12-16 15:06:06,056 Train INFO: time for this instance:11.93811321258545
+2024-12-16 15:06:18,772 Train INFO: training upper bound:18.028040327936633
+2024-12-16 15:06:18,773 Train INFO: time for this instance:12.715922832489014
+2024-12-16 15:06:31,805 Train INFO: training upper bound:18.31388843873041
+2024-12-16 15:06:31,805 Train INFO: time for this instance:13.032088994979858
+2024-12-16 15:06:44,876 Train INFO: training upper bound:18.27400869123702
+2024-12-16 15:06:44,876 Train INFO: time for this instance:13.071314811706543
+2024-12-16 15:06:56,671 Train INFO: training upper bound:16.602769745144926
+2024-12-16 15:06:56,671 Train INFO: time for this instance:11.79427719116211
+2024-12-16 15:07:09,273 Train INFO: training upper bound:17.961034805892922
+2024-12-16 15:07:09,273 Train INFO: time for this instance:12.601575136184692
+2024-12-16 15:07:20,810 Train INFO: training upper bound:16.730664934825455
+2024-12-16 15:07:20,810 Train INFO: time for this instance:11.536756992340088
+2024-12-16 15:07:32,740 Train INFO: training upper bound:16.769890291115296
+2024-12-16 15:07:32,741 Train INFO: time for this instance:11.930444717407227
+2024-12-16 15:07:44,295 Train INFO: training upper bound:16.51098176164508
+2024-12-16 15:07:44,295 Train INFO: time for this instance:11.554264307022095
+2024-12-16 15:07:57,182 Train INFO: training upper bound:18.057051509239123
+2024-12-16 15:07:57,182 Train INFO: time for this instance:12.887067079544067
+2024-12-16 15:08:09,463 Train INFO: training upper bound:17.6738992898579
+2024-12-16 15:08:09,463 Train INFO: time for this instance:12.280652284622192
+2024-12-16 15:08:21,965 Train INFO: training upper bound:17.814216771158577
+2024-12-16 15:08:21,965 Train INFO: time for this instance:12.501430988311768
+2024-12-16 15:08:33,019 Train INFO: training upper bound:15.962069977661878
+2024-12-16 15:08:33,019 Train INFO: time for this instance:11.05419635772705
+2024-12-16 15:08:44,675 Train INFO: training upper bound:16.702629438074844
+2024-12-16 15:08:44,675 Train INFO: time for this instance:11.65535593032837
+2024-12-16 15:08:55,419 Train INFO: training upper bound:15.511870578590534
+2024-12-16 15:08:55,419 Train INFO: time for this instance:10.74389386177063
+2024-12-16 15:09:06,196 Train INFO: training upper bound:15.372147864956636
+2024-12-16 15:09:06,196 Train INFO: time for this instance:10.77640700340271
+2024-12-16 15:09:18,491 Train INFO: training upper bound:17.460831820901205
+2024-12-16 15:09:18,491 Train INFO: time for this instance:12.294641733169556
+2024-12-16 15:09:29,678 Train INFO: training upper bound:15.935644349066758
+2024-12-16 15:09:29,678 Train INFO: time for this instance:11.186794757843018
+2024-12-16 15:09:42,645 Train INFO: training upper bound:18.421331973007568
+2024-12-16 15:09:42,645 Train INFO: time for this instance:12.967454433441162
+2024-12-16 15:09:53,701 Train INFO: training upper bound:16.131780318778578
+2024-12-16 15:09:53,701 Train INFO: time for this instance:11.05516529083252
+2024-12-16 15:10:05,719 Train INFO: training upper bound:17.491270142859054
+2024-12-16 15:10:05,719 Train INFO: time for this instance:12.017492294311523
+2024-12-16 15:10:18,128 Train INFO: testing upper bound:17.604050551168058
+2024-12-16 15:10:30,421 Train INFO: testing upper bound:17.37567316688937
+2024-12-16 15:10:42,378 Train INFO: testing upper bound:16.813719757485554
+2024-12-16 15:10:55,138 Train INFO: testing upper bound:18.08530632355359
+2024-12-16 15:11:07,381 Train INFO: testing upper bound:17.40190549437681
+2024-12-16 15:11:18,094 Train INFO: testing upper bound:15.353691756727107
+2024-12-16 15:11:29,345 Train INFO: testing upper bound:16.361022859898277
+2024-12-16 15:11:42,082 Train INFO: testing upper bound:17.98123009963597
+2024-12-16 15:11:52,935 Train INFO: testing upper bound:15.558669204385486
+2024-12-16 15:12:04,729 Train INFO: testing upper bound:16.801503077657856
+2024-12-16 15:12:17,719 Train INFO: testing upper bound:18.083418565611424
+2024-12-16 15:12:30,295 Train INFO: testing upper bound:18.0615430889585
+2024-12-16 15:12:42,153 Train INFO: testing upper bound:16.946480585804668
+2024-12-16 15:12:54,538 Train INFO: testing upper bound:17.448648261266417
+2024-12-16 15:13:07,505 Train INFO: testing upper bound:18.259226441945128
+2024-12-16 15:13:19,651 Train INFO: testing upper bound:17.455369827962883
+2024-12-16 15:13:31,186 Train INFO: testing upper bound:16.6215471412337
+2024-12-16 15:13:43,193 Train INFO: testing upper bound:17.09723719478729
+2024-12-16 15:13:55,210 Train INFO: testing upper bound:17.332381317508506
+2024-12-16 15:14:07,208 Train INFO: testing upper bound:16.680362574866695
+2024-12-16 15:14:19,936 Train INFO: testing upper bound:17.982354546050328
+2024-12-16 15:14:31,772 Train INFO: testing upper bound:16.763665574466618
+2024-12-16 15:14:43,978 Train INFO: testing upper bound:17.348093753244946
+2024-12-16 15:14:54,885 Train INFO: testing upper bound:15.41701045913436
+2024-12-16 15:15:07,061 Train INFO: testing upper bound:17.19004918548798
+2024-12-16 15:15:19,112 Train INFO: testing upper bound:16.95251943811416
+2024-12-16 15:15:30,109 Train INFO: testing upper bound:15.657437597523282
+2024-12-16 15:15:43,107 Train INFO: testing upper bound:18.56756616405799
+2024-12-16 15:15:55,935 Train INFO: testing upper bound:18.061989314581837
+2024-12-16 15:16:08,880 Train INFO: testing upper bound:18.217269105304883
+2024-12-16 15:16:19,931 Train INFO: testing upper bound:15.811295074463542
+2024-12-16 15:16:32,665 Train INFO: testing upper bound:17.872146862656447
+2024-12-16 15:16:43,583 Train INFO: testing upper bound:15.563421501903013
+2024-12-16 15:16:55,939 Train INFO: testing upper bound:17.156054845751246
+2024-12-16 15:17:06,746 Train INFO: testing upper bound:15.833248786518102
+2024-12-16 15:17:17,713 Train INFO: testing upper bound:15.866517954946719
+2024-12-16 15:17:29,507 Train INFO: testing upper bound:16.688642709176843
+2024-12-16 15:17:40,339 Train INFO: testing upper bound:15.687315130008384
+2024-12-16 15:17:51,094 Train INFO: testing upper bound:15.249384899078255
+2024-12-16 15:18:01,883 Train INFO: testing upper bound:15.430711114451787
+2024-12-16 15:18:14,584 Train INFO: testing upper bound:18.04811524338418
+2024-12-16 15:18:27,345 Train INFO: testing upper bound:18.252860431815936
+2024-12-16 15:18:38,098 Train INFO: testing upper bound:15.480007847160717
+2024-12-16 15:18:49,436 Train INFO: testing upper bound:16.467502515908237
+2024-12-16 15:19:01,389 Train INFO: testing upper bound:16.780018433088646
+2024-12-16 15:19:13,798 Train INFO: testing upper bound:17.273825964916867
+2024-12-16 15:19:26,215 Train INFO: testing upper bound:17.28668306763016
+2024-12-16 15:19:38,453 Train INFO: testing upper bound:17.367094038723756
+2024-12-16 15:19:50,609 Train INFO: testing upper bound:17.18345756636497
+2024-12-16 15:20:01,802 Train INFO: testing upper bound:15.816457287828044
+2024-12-16 15:20:13,543 Train INFO: testing upper bound:16.789897901954046
+2024-12-16 15:20:25,138 Train INFO: testing upper bound:16.648805777508315
+2024-12-16 15:20:37,384 Train INFO: testing upper bound:17.33808791209638
+2024-12-16 15:20:48,613 Train INFO: testing upper bound:15.9829719298331
+2024-12-16 15:21:00,973 Train INFO: testing upper bound:17.196825144390406
+2024-12-16 15:21:11,937 Train INFO: testing upper bound:15.571679610597199
+2024-12-16 15:21:23,288 Train INFO: testing upper bound:16.141733736757175
+2024-12-16 15:21:34,047 Train INFO: testing upper bound:15.494369596105269
+2024-12-16 15:21:44,776 Train INFO: testing upper bound:15.613834434535224
+2024-12-16 15:21:56,730 Train INFO: testing upper bound:16.89005658873944
+2024-12-16 15:22:09,328 Train INFO: testing upper bound:17.948731406732943
+2024-12-16 15:22:21,716 Train INFO: testing upper bound:17.691814047990174
+2024-12-16 15:22:33,734 Train INFO: testing upper bound:16.958825688646044
+2024-12-16 15:22:45,441 Train INFO: testing upper bound:16.66413966381813
+2024-12-16 15:22:58,428 Train INFO: testing upper bound:18.283953618560584
+2024-12-16 15:23:10,089 Train INFO: testing upper bound:16.654125750953853
+2024-12-16 15:23:22,718 Train INFO: testing upper bound:17.860767279418322
+2024-12-16 15:23:34,478 Train INFO: testing upper bound:16.82970164217485
+2024-12-16 15:23:45,945 Train INFO: testing upper bound:16.27476461004831
+2024-12-16 15:23:57,313 Train INFO: testing upper bound:16.349453238856025
+2024-12-16 15:24:08,814 Train INFO: testing upper bound:16.20626886896783
+2024-12-16 15:24:20,417 Train INFO: testing upper bound:16.755831897957375
+2024-12-16 15:24:33,396 Train INFO: testing upper bound:18.116479939549723
+2024-12-16 15:24:45,927 Train INFO: testing upper bound:17.439816884702548
+2024-12-16 15:24:58,166 Train INFO: testing upper bound:17.242424659830974
+2024-12-16 15:25:10,685 Train INFO: testing upper bound:17.931420817456605
+2024-12-16 15:25:22,126 Train INFO: testing upper bound:16.3276139760365
+2024-12-16 15:25:34,095 Train INFO: testing upper bound:16.827768525338186
+2024-12-16 15:25:45,441 Train INFO: testing upper bound:16.16051539293697
+2024-12-16 15:25:57,791 Train INFO: testing upper bound:17.44821931983745
+2024-12-16 15:26:08,673 Train INFO: testing upper bound:15.637297558168223
+2024-12-16 15:26:20,383 Train INFO: testing upper bound:16.85038279609208
+2024-12-16 15:26:31,781 Train INFO: testing upper bound:16.121759745017656
+2024-12-16 15:26:44,763 Train INFO: testing upper bound:17.965158306185938
+2024-12-16 15:26:55,971 Train INFO: testing upper bound:16.122565789030944
+2024-12-16 15:27:07,732 Train INFO: testing upper bound:16.756645013914646
+2024-12-16 15:27:19,393 Train INFO: testing upper bound:16.43133504627864
+2024-12-16 15:27:30,893 Train INFO: testing upper bound:16.22744764250241
+2024-12-16 15:27:43,942 Train INFO: testing upper bound:18.317255749089917
+2024-12-16 15:27:56,273 Train INFO: testing upper bound:17.416361931645355
+2024-12-16 15:28:08,287 Train INFO: testing upper bound:16.79016377561663
+2024-12-16 15:28:19,966 Train INFO: testing upper bound:16.530720442244636
+2024-12-16 15:28:31,486 Train INFO: testing upper bound:15.96528004194972
+2024-12-16 15:28:44,474 Train INFO: testing upper bound:18.42145235130308
+2024-12-16 15:28:57,312 Train INFO: testing upper bound:18.142251310382523
+2024-12-16 15:29:09,039 Train INFO: testing upper bound:16.923520958235486
+2024-12-16 15:29:20,913 Train INFO: testing upper bound:16.73467116604634
+2024-12-16 15:29:33,571 Train INFO: testing upper bound:17.81715363806489
+2024-12-16 15:29:44,882 Train INFO: testing upper bound:16.094179058588374
+2024-12-16 15:29:56,413 Train INFO: testing upper bound:16.57939632597091
+2024-12-16 15:29:56,413 Train INFO: upper bound completed.
