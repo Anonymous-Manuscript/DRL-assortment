@@ -1,0 +1,244 @@
+2024-09-22 15:09:59,634 Train INFO: Namespace(logger=<Logger Train (INFO)>, name=None, gpu='0', device=None, gamma=1, epsilon_decay=0.998, epoch_num=40, batch_size=1, layer='128_64', lr=1e-05, num_steps=10, h=2, w=[64, 128], nn_out=64, share_lr=0.001, actor_lr=0.001, critic_lr=0.001, em_lr=0.001, step=100, lr_min=1e-05, e_rate=0.1, a_rate=1, c_rate=1, lr_decay_lambda=0.999, shape=True, cus_onehot=False, cus_embedding_dim=4, t_embedding_dim=1, GR_Train=False, GR_Test=True, MLP=True, CM='mc', DQN=False, load=False, only_test_Benchmark=False, only_test_DRL=False, UB=False, training_curves=True, detail=False, GT='rl', stream='0', saved_time_stream='2024-09-20-19-03-26', folder='rlN=10M=20k=0.03L=100T=500', seed_range=10, net_seed=0, seed=0, info=True, k=0.03, L=100, T=500, cardinality=5, ini_inv=12, num_products=10, products=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], num_cus_types=20, rank_list=None, cus_type=None, seg_prob=None, seqdata=None, transdata=None)
+2024-09-22 15:09:59,634 Train INFO: GT/rlN=10M=20k=0.03L=100T=500/SimulationLog
+2024-09-22 15:09:59,635 Train INFO: prices:[15.75162278 16.35482199 16.56380817 18.17324774 18.23220256 19.04145064
+ 19.6884117  20.7278405  23.37659501 24.45494141]
+2024-09-22 15:10:24,690 Train INFO: customer type: 0
+2024-09-22 15:15:43,954 Train INFO: Training Epoch: 1/10 , Training LL: -1.758 
+2024-09-22 15:15:44,088 Train INFO: Training Epoch: 2/10 , Training LL: -1.161 
+2024-09-22 15:15:44,216 Train INFO: Training Epoch: 3/10 , Training LL: -0.613 
+2024-09-22 15:15:44,342 Train INFO: Training Epoch: 4/10 , Training LL: -0.517 
+2024-09-22 15:15:44,464 Train INFO: Training Epoch: 5/10 , Training LL: -0.479 
+2024-09-22 15:15:44,584 Train INFO: Training Epoch: 6/10 , Training LL: -0.457 
+2024-09-22 15:15:44,706 Train INFO: Training Epoch: 7/10 , Training LL: -0.431 
+2024-09-22 15:15:44,836 Train INFO: Training Epoch: 8/10 , Training LL: -0.414 
+2024-09-22 15:15:44,956 Train INFO: Training Epoch: 9/10 , Training LL: -0.397 
+2024-09-22 15:15:45,076 Train INFO: Training Epoch: 10/10 , Training LL: -0.386 
+2024-09-22 15:15:45,098 Train INFO: Testing LL - mnl: -0.536, lcmnl: -0.468, rcs: -0.511, mc: -0.330, assort_net: -0.383.
+2024-09-22 15:15:45,100 Train INFO: customer type: 1
+2024-09-22 15:19:27,327 Train INFO: Training Epoch: 1/10 , Training LL: -1.490 
+2024-09-22 15:19:27,429 Train INFO: Training Epoch: 2/10 , Training LL: -0.893 
+2024-09-22 15:19:27,532 Train INFO: Training Epoch: 3/10 , Training LL: -0.648 
+2024-09-22 15:19:27,634 Train INFO: Training Epoch: 4/10 , Training LL: -0.599 
+2024-09-22 15:19:27,736 Train INFO: Training Epoch: 5/10 , Training LL: -0.577 
+2024-09-22 15:19:27,838 Train INFO: Training Epoch: 6/10 , Training LL: -0.557 
+2024-09-22 15:19:27,941 Train INFO: Training Epoch: 7/10 , Training LL: -0.535 
+2024-09-22 15:19:28,043 Train INFO: Training Epoch: 8/10 , Training LL: -0.524 
+2024-09-22 15:19:28,145 Train INFO: Training Epoch: 9/10 , Training LL: -0.507 
+2024-09-22 15:19:28,248 Train INFO: Training Epoch: 10/10 , Training LL: -0.493 
+2024-09-22 15:19:28,266 Train INFO: Testing LL - mnl: -0.538, lcmnl: -0.532, rcs: -0.513, mc: -0.326, assort_net: -0.416.
+2024-09-22 15:19:28,268 Train INFO: customer type: 2
+2024-09-22 15:25:16,119 Train INFO: Training Epoch: 1/10 , Training LL: -1.450 
+2024-09-22 15:25:16,249 Train INFO: Training Epoch: 2/10 , Training LL: -0.827 
+2024-09-22 15:25:16,378 Train INFO: Training Epoch: 3/10 , Training LL: -0.711 
+2024-09-22 15:25:16,507 Train INFO: Training Epoch: 4/10 , Training LL: -0.691 
+2024-09-22 15:25:16,637 Train INFO: Training Epoch: 5/10 , Training LL: -0.679 
+2024-09-22 15:25:16,766 Train INFO: Training Epoch: 6/10 , Training LL: -0.668 
+2024-09-22 15:25:16,896 Train INFO: Training Epoch: 7/10 , Training LL: -0.655 
+2024-09-22 15:25:17,025 Train INFO: Training Epoch: 8/10 , Training LL: -0.645 
+2024-09-22 15:25:17,155 Train INFO: Training Epoch: 9/10 , Training LL: -0.636 
+2024-09-22 15:25:17,284 Train INFO: Training Epoch: 10/10 , Training LL: -0.628 
+2024-09-22 15:25:17,309 Train INFO: Testing LL - mnl: -0.786, lcmnl: -0.787, rcs: -0.809, mc: -0.669, assort_net: -0.708.
+2024-09-22 15:25:17,311 Train INFO: customer type: 3
+2024-09-22 15:32:15,702 Train INFO: Training Epoch: 1/10 , Training LL: -1.360 
+2024-09-22 15:32:15,843 Train INFO: Training Epoch: 2/10 , Training LL: -0.756 
+2024-09-22 15:32:15,979 Train INFO: Training Epoch: 3/10 , Training LL: -0.668 
+2024-09-22 15:32:16,117 Train INFO: Training Epoch: 4/10 , Training LL: -0.653 
+2024-09-22 15:32:16,248 Train INFO: Training Epoch: 5/10 , Training LL: -0.643 
+2024-09-22 15:32:16,370 Train INFO: Training Epoch: 6/10 , Training LL: -0.637 
+2024-09-22 15:32:16,492 Train INFO: Training Epoch: 7/10 , Training LL: -0.632 
+2024-09-22 15:32:16,613 Train INFO: Training Epoch: 8/10 , Training LL: -0.625 
+2024-09-22 15:32:16,733 Train INFO: Training Epoch: 9/10 , Training LL: -0.621 
+2024-09-22 15:32:16,855 Train INFO: Training Epoch: 10/10 , Training LL: -0.617 
+2024-09-22 15:32:16,878 Train INFO: Testing LL - mnl: -0.685, lcmnl: -0.667, rcs: -0.693, mc: -0.592, assort_net: -0.635.
+2024-09-22 15:32:16,880 Train INFO: customer type: 4
+2024-09-22 15:38:37,194 Train INFO: Training Epoch: 1/10 , Training LL: -1.410 
+2024-09-22 15:38:37,352 Train INFO: Training Epoch: 2/10 , Training LL: -0.769 
+2024-09-22 15:38:37,509 Train INFO: Training Epoch: 3/10 , Training LL: -0.700 
+2024-09-22 15:38:37,666 Train INFO: Training Epoch: 4/10 , Training LL: -0.688 
+2024-09-22 15:38:37,821 Train INFO: Training Epoch: 5/10 , Training LL: -0.676 
+2024-09-22 15:38:37,984 Train INFO: Training Epoch: 6/10 , Training LL: -0.663 
+2024-09-22 15:38:38,150 Train INFO: Training Epoch: 7/10 , Training LL: -0.654 
+2024-09-22 15:38:38,315 Train INFO: Training Epoch: 8/10 , Training LL: -0.640 
+2024-09-22 15:38:38,487 Train INFO: Training Epoch: 9/10 , Training LL: -0.633 
+2024-09-22 15:38:38,654 Train INFO: Training Epoch: 10/10 , Training LL: -0.625 
+2024-09-22 15:38:38,683 Train INFO: Testing LL - mnl: -0.760, lcmnl: -0.754, rcs: -0.798, mc: -0.592, assort_net: -0.644.
+2024-09-22 15:38:38,686 Train INFO: customer type: 5
+2024-09-22 15:44:30,395 Train INFO: Training Epoch: 1/10 , Training LL: -1.755 
+2024-09-22 15:44:30,566 Train INFO: Training Epoch: 2/10 , Training LL: -1.433 
+2024-09-22 15:44:30,729 Train INFO: Training Epoch: 3/10 , Training LL: -1.329 
+2024-09-22 15:44:30,895 Train INFO: Training Epoch: 4/10 , Training LL: -1.303 
+2024-09-22 15:44:31,062 Train INFO: Training Epoch: 5/10 , Training LL: -1.287 
+2024-09-22 15:44:31,240 Train INFO: Training Epoch: 6/10 , Training LL: -1.272 
+2024-09-22 15:44:31,423 Train INFO: Training Epoch: 7/10 , Training LL: -1.257 
+2024-09-22 15:44:31,598 Train INFO: Training Epoch: 8/10 , Training LL: -1.242 
+2024-09-22 15:44:31,758 Train INFO: Training Epoch: 9/10 , Training LL: -1.226 
+2024-09-22 15:44:31,931 Train INFO: Training Epoch: 10/10 , Training LL: -1.211 
+2024-09-22 15:44:31,961 Train INFO: Testing LL - mnl: -1.316, lcmnl: -1.152, rcs: -1.282, mc: -1.062, assort_net: -1.197.
+2024-09-22 15:44:31,965 Train INFO: customer type: 6
+2024-09-22 15:51:08,665 Train INFO: Training Epoch: 1/10 , Training LL: -1.763 
+2024-09-22 15:51:08,827 Train INFO: Training Epoch: 2/10 , Training LL: -1.387 
+2024-09-22 15:51:08,982 Train INFO: Training Epoch: 3/10 , Training LL: -1.253 
+2024-09-22 15:51:09,143 Train INFO: Training Epoch: 4/10 , Training LL: -1.233 
+2024-09-22 15:51:09,314 Train INFO: Training Epoch: 5/10 , Training LL: -1.221 
+2024-09-22 15:51:09,497 Train INFO: Training Epoch: 6/10 , Training LL: -1.211 
+2024-09-22 15:51:09,681 Train INFO: Training Epoch: 7/10 , Training LL: -1.203 
+2024-09-22 15:51:09,861 Train INFO: Training Epoch: 8/10 , Training LL: -1.197 
+2024-09-22 15:51:10,041 Train INFO: Training Epoch: 9/10 , Training LL: -1.189 
+2024-09-22 15:51:10,212 Train INFO: Training Epoch: 10/10 , Training LL: -1.182 
+2024-09-22 15:51:10,243 Train INFO: Testing LL - mnl: -1.253, lcmnl: -1.179, rcs: -1.241, mc: -1.096, assort_net: -1.199.
+2024-09-22 15:51:10,247 Train INFO: customer type: 7
+2024-09-22 15:59:11,851 Train INFO: Training Epoch: 1/10 , Training LL: -1.612 
+2024-09-22 15:59:12,026 Train INFO: Training Epoch: 2/10 , Training LL: -1.326 
+2024-09-22 15:59:12,203 Train INFO: Training Epoch: 3/10 , Training LL: -1.288 
+2024-09-22 15:59:12,386 Train INFO: Training Epoch: 4/10 , Training LL: -1.275 
+2024-09-22 15:59:12,578 Train INFO: Training Epoch: 5/10 , Training LL: -1.260 
+2024-09-22 15:59:12,764 Train INFO: Training Epoch: 6/10 , Training LL: -1.237 
+2024-09-22 15:59:12,951 Train INFO: Training Epoch: 7/10 , Training LL: -1.210 
+2024-09-22 15:59:13,134 Train INFO: Training Epoch: 8/10 , Training LL: -1.187 
+2024-09-22 15:59:13,315 Train INFO: Training Epoch: 9/10 , Training LL: -1.173 
+2024-09-22 15:59:13,495 Train INFO: Training Epoch: 10/10 , Training LL: -1.160 
+2024-09-22 15:59:13,531 Train INFO: Testing LL - mnl: -1.321, lcmnl: -1.155, rcs: -1.246, mc: -1.098, assort_net: -1.164.
+2024-09-22 15:59:13,535 Train INFO: customer type: 8
+2024-09-22 16:07:43,508 Train INFO: Training Epoch: 1/10 , Training LL: -1.694 
+2024-09-22 16:07:43,692 Train INFO: Training Epoch: 2/10 , Training LL: -1.360 
+2024-09-22 16:07:43,872 Train INFO: Training Epoch: 3/10 , Training LL: -1.285 
+2024-09-22 16:07:44,041 Train INFO: Training Epoch: 4/10 , Training LL: -1.260 
+2024-09-22 16:07:44,213 Train INFO: Training Epoch: 5/10 , Training LL: -1.238 
+2024-09-22 16:07:44,378 Train INFO: Training Epoch: 6/10 , Training LL: -1.216 
+2024-09-22 16:07:44,544 Train INFO: Training Epoch: 7/10 , Training LL: -1.204 
+2024-09-22 16:07:44,708 Train INFO: Training Epoch: 8/10 , Training LL: -1.193 
+2024-09-22 16:07:44,860 Train INFO: Training Epoch: 9/10 , Training LL: -1.181 
+2024-09-22 16:07:45,003 Train INFO: Training Epoch: 10/10 , Training LL: -1.177 
+2024-09-22 16:07:45,032 Train INFO: Testing LL - mnl: -1.254, lcmnl: -1.166, rcs: -1.235, mc: -1.127, assort_net: -1.149.
+2024-09-22 16:07:45,035 Train INFO: customer type: 9
+2024-09-22 16:14:59,382 Train INFO: Training Epoch: 1/10 , Training LL: -1.602 
+2024-09-22 16:14:59,508 Train INFO: Training Epoch: 2/10 , Training LL: -1.269 
+2024-09-22 16:14:59,633 Train INFO: Training Epoch: 3/10 , Training LL: -1.205 
+2024-09-22 16:14:59,759 Train INFO: Training Epoch: 4/10 , Training LL: -1.185 
+2024-09-22 16:14:59,883 Train INFO: Training Epoch: 5/10 , Training LL: -1.168 
+2024-09-22 16:15:00,009 Train INFO: Training Epoch: 6/10 , Training LL: -1.157 
+2024-09-22 16:15:00,153 Train INFO: Training Epoch: 7/10 , Training LL: -1.144 
+2024-09-22 16:15:00,296 Train INFO: Training Epoch: 8/10 , Training LL: -1.135 
+2024-09-22 16:15:00,439 Train INFO: Training Epoch: 9/10 , Training LL: -1.128 
+2024-09-22 16:15:00,582 Train INFO: Training Epoch: 10/10 , Training LL: -1.123 
+2024-09-22 16:15:00,607 Train INFO: Testing LL - mnl: -1.207, lcmnl: -1.136, rcs: -1.191, mc: -1.077, assort_net: -1.137.
+2024-09-22 16:15:00,610 Train INFO: customer type: 10
+2024-09-22 16:23:02,603 Train INFO: Training Epoch: 1/10 , Training LL: -1.535 
+2024-09-22 16:23:02,792 Train INFO: Training Epoch: 2/10 , Training LL: -1.313 
+2024-09-22 16:23:02,969 Train INFO: Training Epoch: 3/10 , Training LL: -1.270 
+2024-09-22 16:23:03,141 Train INFO: Training Epoch: 4/10 , Training LL: -1.257 
+2024-09-22 16:23:03,321 Train INFO: Training Epoch: 5/10 , Training LL: -1.237 
+2024-09-22 16:23:03,494 Train INFO: Training Epoch: 6/10 , Training LL: -1.224 
+2024-09-22 16:23:03,664 Train INFO: Training Epoch: 7/10 , Training LL: -1.211 
+2024-09-22 16:23:03,834 Train INFO: Training Epoch: 8/10 , Training LL: -1.207 
+2024-09-22 16:23:04,003 Train INFO: Training Epoch: 9/10 , Training LL: -1.192 
+2024-09-22 16:23:04,178 Train INFO: Training Epoch: 10/10 , Training LL: -1.180 
+2024-09-22 16:23:04,210 Train INFO: Testing LL - mnl: -1.321, lcmnl: -1.231, rcs: -1.279, mc: -1.214, assort_net: -1.207.
+2024-09-22 16:23:04,215 Train INFO: customer type: 11
+2024-09-22 16:32:14,941 Train INFO: Training Epoch: 1/10 , Training LL: -1.871 
+2024-09-22 16:32:15,121 Train INFO: Training Epoch: 2/10 , Training LL: -1.596 
+2024-09-22 16:32:15,302 Train INFO: Training Epoch: 3/10 , Training LL: -1.448 
+2024-09-22 16:32:15,484 Train INFO: Training Epoch: 4/10 , Training LL: -1.431 
+2024-09-22 16:32:15,664 Train INFO: Training Epoch: 5/10 , Training LL: -1.423 
+2024-09-22 16:32:15,843 Train INFO: Training Epoch: 6/10 , Training LL: -1.415 
+2024-09-22 16:32:16,029 Train INFO: Training Epoch: 7/10 , Training LL: -1.406 
+2024-09-22 16:32:16,240 Train INFO: Training Epoch: 8/10 , Training LL: -1.398 
+2024-09-22 16:32:16,423 Train INFO: Training Epoch: 9/10 , Training LL: -1.390 
+2024-09-22 16:32:16,606 Train INFO: Training Epoch: 10/10 , Training LL: -1.383 
+2024-09-22 16:32:16,640 Train INFO: Testing LL - mnl: -1.461, lcmnl: -1.417, rcs: -1.433, mc: -1.330, assort_net: -1.412.
+2024-09-22 16:32:16,648 Train INFO: customer type: 12
+2024-09-22 16:40:31,511 Train INFO: Training Epoch: 1/10 , Training LL: -1.706 
+2024-09-22 16:40:31,678 Train INFO: Training Epoch: 2/10 , Training LL: -1.594 
+2024-09-22 16:40:31,848 Train INFO: Training Epoch: 3/10 , Training LL: -1.546 
+2024-09-22 16:40:32,028 Train INFO: Training Epoch: 4/10 , Training LL: -1.529 
+2024-09-22 16:40:32,214 Train INFO: Training Epoch: 5/10 , Training LL: -1.522 
+2024-09-22 16:40:32,421 Train INFO: Training Epoch: 6/10 , Training LL: -1.512 
+2024-09-22 16:40:32,602 Train INFO: Training Epoch: 7/10 , Training LL: -1.502 
+2024-09-22 16:40:32,775 Train INFO: Training Epoch: 8/10 , Training LL: -1.495 
+2024-09-22 16:40:32,942 Train INFO: Training Epoch: 9/10 , Training LL: -1.486 
+2024-09-22 16:40:33,124 Train INFO: Training Epoch: 10/10 , Training LL: -1.479 
+2024-09-22 16:40:33,157 Train INFO: Testing LL - mnl: -1.554, lcmnl: -1.465, rcs: -1.529, mc: -1.403, assort_net: -1.510.
+2024-09-22 16:40:33,162 Train INFO: customer type: 13
+2024-09-22 16:48:54,498 Train INFO: Training Epoch: 1/10 , Training LL: -1.746 
+2024-09-22 16:48:54,708 Train INFO: Training Epoch: 2/10 , Training LL: -1.578 
+2024-09-22 16:48:55,051 Train INFO: Training Epoch: 3/10 , Training LL: -1.513 
+2024-09-22 16:48:55,401 Train INFO: Training Epoch: 4/10 , Training LL: -1.502 
+2024-09-22 16:48:55,790 Train INFO: Training Epoch: 5/10 , Training LL: -1.496 
+2024-09-22 16:48:56,177 Train INFO: Training Epoch: 6/10 , Training LL: -1.487 
+2024-09-22 16:48:56,513 Train INFO: Training Epoch: 7/10 , Training LL: -1.477 
+2024-09-22 16:48:56,705 Train INFO: Training Epoch: 8/10 , Training LL: -1.463 
+2024-09-22 16:48:56,894 Train INFO: Training Epoch: 9/10 , Training LL: -1.449 
+2024-09-22 16:48:57,082 Train INFO: Training Epoch: 10/10 , Training LL: -1.434 
+2024-09-22 16:48:57,114 Train INFO: Testing LL - mnl: -1.503, lcmnl: -1.442, rcs: -1.467, mc: -1.414, assort_net: -1.445.
+2024-09-22 16:48:57,120 Train INFO: customer type: 14
+2024-09-22 16:57:56,086 Train INFO: Training Epoch: 1/10 , Training LL: -1.744 
+2024-09-22 16:57:56,245 Train INFO: Training Epoch: 2/10 , Training LL: -1.640 
+2024-09-22 16:57:56,405 Train INFO: Training Epoch: 3/10 , Training LL: -1.597 
+2024-09-22 16:57:56,566 Train INFO: Training Epoch: 4/10 , Training LL: -1.581 
+2024-09-22 16:57:56,730 Train INFO: Training Epoch: 5/10 , Training LL: -1.571 
+2024-09-22 16:57:56,892 Train INFO: Training Epoch: 6/10 , Training LL: -1.561 
+2024-09-22 16:57:57,047 Train INFO: Training Epoch: 7/10 , Training LL: -1.551 
+2024-09-22 16:57:57,203 Train INFO: Training Epoch: 8/10 , Training LL: -1.531 
+2024-09-22 16:57:57,353 Train INFO: Training Epoch: 9/10 , Training LL: -1.526 
+2024-09-22 16:57:57,501 Train INFO: Training Epoch: 10/10 , Training LL: -1.511 
+2024-09-22 16:57:57,528 Train INFO: Testing LL - mnl: -1.598, lcmnl: -1.505, rcs: -1.558, mc: -1.475, assort_net: -1.510.
+2024-09-22 16:57:57,532 Train INFO: customer type: 15
+2024-09-22 17:07:30,619 Train INFO: Training Epoch: 1/10 , Training LL: -1.743 
+2024-09-22 17:07:30,762 Train INFO: Training Epoch: 2/10 , Training LL: -1.667 
+2024-09-22 17:07:30,903 Train INFO: Training Epoch: 3/10 , Training LL: -1.649 
+2024-09-22 17:07:31,043 Train INFO: Training Epoch: 4/10 , Training LL: -1.634 
+2024-09-22 17:07:31,181 Train INFO: Training Epoch: 5/10 , Training LL: -1.627 
+2024-09-22 17:07:31,320 Train INFO: Training Epoch: 6/10 , Training LL: -1.616 
+2024-09-22 17:07:31,469 Train INFO: Training Epoch: 7/10 , Training LL: -1.610 
+2024-09-22 17:07:31,627 Train INFO: Training Epoch: 8/10 , Training LL: -1.600 
+2024-09-22 17:07:31,782 Train INFO: Training Epoch: 9/10 , Training LL: -1.593 
+2024-09-22 17:07:31,938 Train INFO: Training Epoch: 10/10 , Training LL: -1.589 
+2024-09-22 17:07:31,970 Train INFO: Testing LL - mnl: -1.663, lcmnl: -1.610, rcs: -1.671, mc: -1.583, assort_net: -1.609.
+2024-09-22 17:07:31,977 Train INFO: customer type: 16
+2024-09-22 17:16:57,090 Train INFO: Training Epoch: 1/10 , Training LL: -1.771 
+2024-09-22 17:16:57,226 Train INFO: Training Epoch: 2/10 , Training LL: -1.689 
+2024-09-22 17:16:57,371 Train INFO: Training Epoch: 3/10 , Training LL: -1.642 
+2024-09-22 17:16:57,516 Train INFO: Training Epoch: 4/10 , Training LL: -1.625 
+2024-09-22 17:16:57,650 Train INFO: Training Epoch: 5/10 , Training LL: -1.617 
+2024-09-22 17:16:57,784 Train INFO: Training Epoch: 6/10 , Training LL: -1.611 
+2024-09-22 17:16:57,923 Train INFO: Training Epoch: 7/10 , Training LL: -1.605 
+2024-09-22 17:16:58,058 Train INFO: Training Epoch: 8/10 , Training LL: -1.600 
+2024-09-22 17:16:58,205 Train INFO: Training Epoch: 9/10 , Training LL: -1.594 
+2024-09-22 17:16:58,355 Train INFO: Training Epoch: 10/10 , Training LL: -1.588 
+2024-09-22 17:16:58,385 Train INFO: Testing LL - mnl: -1.655, lcmnl: -1.581, rcs: -1.635, mc: -1.560, assort_net: -1.612.
+2024-09-22 17:16:58,391 Train INFO: customer type: 17
+2024-09-22 17:27:02,360 Train INFO: Training Epoch: 1/10 , Training LL: -1.728 
+2024-09-22 17:27:02,506 Train INFO: Training Epoch: 2/10 , Training LL: -1.667 
+2024-09-22 17:27:02,655 Train INFO: Training Epoch: 3/10 , Training LL: -1.654 
+2024-09-22 17:27:02,799 Train INFO: Training Epoch: 4/10 , Training LL: -1.646 
+2024-09-22 17:27:02,947 Train INFO: Training Epoch: 5/10 , Training LL: -1.640 
+2024-09-22 17:27:03,091 Train INFO: Training Epoch: 6/10 , Training LL: -1.633 
+2024-09-22 17:27:03,234 Train INFO: Training Epoch: 7/10 , Training LL: -1.622 
+2024-09-22 17:27:03,384 Train INFO: Training Epoch: 8/10 , Training LL: -1.612 
+2024-09-22 17:27:03,531 Train INFO: Training Epoch: 9/10 , Training LL: -1.603 
+2024-09-22 17:27:03,677 Train INFO: Training Epoch: 10/10 , Training LL: -1.595 
+2024-09-22 17:27:03,707 Train INFO: Testing LL - mnl: -1.676, lcmnl: -1.577, rcs: -1.651, mc: -1.559, assort_net: -1.602.
+2024-09-22 17:27:03,714 Train INFO: customer type: 18
+2024-09-22 17:34:55,758 Train INFO: Training Epoch: 1/10 , Training LL: -1.783 
+2024-09-22 17:34:55,890 Train INFO: Training Epoch: 2/10 , Training LL: -1.704 
+2024-09-22 17:34:56,021 Train INFO: Training Epoch: 3/10 , Training LL: -1.670 
+2024-09-22 17:34:56,152 Train INFO: Training Epoch: 4/10 , Training LL: -1.657 
+2024-09-22 17:34:56,284 Train INFO: Training Epoch: 5/10 , Training LL: -1.650 
+2024-09-22 17:34:56,417 Train INFO: Training Epoch: 6/10 , Training LL: -1.647 
+2024-09-22 17:34:56,572 Train INFO: Training Epoch: 7/10 , Training LL: -1.641 
+2024-09-22 17:34:56,704 Train INFO: Training Epoch: 8/10 , Training LL: -1.635 
+2024-09-22 17:34:56,835 Train INFO: Training Epoch: 9/10 , Training LL: -1.632 
+2024-09-22 17:34:56,966 Train INFO: Training Epoch: 10/10 , Training LL: -1.628 
+2024-09-22 17:34:56,986 Train INFO: Testing LL - mnl: -1.725, lcmnl: -1.663, rcs: -1.721, mc: -1.662, assort_net: -1.703.
+2024-09-22 17:34:56,989 Train INFO: customer type: 19
+2024-09-22 17:39:18,942 Train INFO: Training Epoch: 1/10 , Training LL: -1.735 
+2024-09-22 17:39:19,042 Train INFO: Training Epoch: 2/10 , Training LL: -1.641 
+2024-09-22 17:39:19,142 Train INFO: Training Epoch: 3/10 , Training LL: -1.602 
+2024-09-22 17:39:19,241 Train INFO: Training Epoch: 4/10 , Training LL: -1.590 
+2024-09-22 17:39:19,341 Train INFO: Training Epoch: 5/10 , Training LL: -1.583 
+2024-09-22 17:39:19,441 Train INFO: Training Epoch: 6/10 , Training LL: -1.578 
+2024-09-22 17:39:19,540 Train INFO: Training Epoch: 7/10 , Training LL: -1.572 
+2024-09-22 17:39:19,640 Train INFO: Training Epoch: 8/10 , Training LL: -1.568 
+2024-09-22 17:39:19,740 Train INFO: Training Epoch: 9/10 , Training LL: -1.563 
+2024-09-22 17:39:19,839 Train INFO: Training Epoch: 10/10 , Training LL: -1.559 
+2024-09-22 17:39:19,858 Train INFO: Testing LL - mnl: -1.591, lcmnl: -1.546, rcs: -1.581, mc: -1.552, assort_net: -1.575.
