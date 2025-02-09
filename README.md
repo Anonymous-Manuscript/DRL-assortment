@@ -26,3 +26,10 @@ conda activate DRL_ass
 pip install -r requirements.txt
 ```
 
+#### System Requirements
+
+This project is tested on the following environment: 
+
+- Operating System: Ubuntu 20.04.6 LTS
+- Kernel Version: 5.15.0-130-generic
+- Architecture: x86_64
