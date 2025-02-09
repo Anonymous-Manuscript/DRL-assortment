@@ -1,6 +1,6 @@
 ## This is the code for paper "Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach"
 
-#### Introduction
+### Introduction
 
 There are three types of experiments: simulation with ground-truth choice model, simulation with real data, simulation with ground-truth choice model and reusable products. These three types of experiments are recorded in the folder *code, code_realdata, code_reuse*, respectively.
 
@@ -16,7 +16,7 @@ There are three types of experiments: simulation with ground-truth choice model,
   1. fit choice models based on processed data using *read_realdata.py*, and this step is detailed in the Markdown file *read_realdata.md*;
   1. test benchmark, train and test A2C agents using *main.py*, and this step is detailed in the Markdown file *Get_Results.md*.
 
-#### Setup Environment
+### Setup Environment
 
 Create a conda environment for DRL assortment and install the dependencies:
 
@@ -26,7 +26,7 @@ conda activate DRL_ass
 pip install -r requirements.txt
 ```
 
-#### System Requirements
+### System Requirements
 
 This project is tested on the following environment: 
 
