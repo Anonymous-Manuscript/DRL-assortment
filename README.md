@@ -33,3 +33,7 @@ This project is tested on the following environment:
 - Operating System: Ubuntu 20.04.6 LTS
 - Kernel Version: 5.15.0-130-generic
 - Architecture: x86_64
+
+### Acknowledgment
+
+- Berbeglia, Gerardo, Agustín Garassino, and Gustavo Vulcano. "A comparative empirical study of discrete choice models in retail operations." *Management Science* 68.6 (2022): 4005-4023.
